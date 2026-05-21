@@ -1,0 +1,114 @@
+[
+  {
+    "source_file": "CCAC-AR2026-2-our-changing-climate-final.pdf",
+    "file_type": ".pdf",
+    "raw_length": 84667,
+    "cleaned_length": 83742,
+    "word_count": 11504,
+    "processed_file": "doc_00_CCAC-AR2026-2-our-changing-climate-final.txt"
+  },
+  {
+    "source_file": "Energy-in-Ireland-2025.pdf",
+    "file_type": ".pdf",
+    "raw_length": 429647,
+    "cleaned_length": 400375,
+    "word_count": 60874,
+    "processed_file": "doc_01_Energy-in-Ireland-2025.txt"
+  },
+  {
+    "source_file": "carbon_capture_and_storage.txt",
+    "file_type": ".txt",
+    "raw_length": 43957,
+    "cleaned_length": 43830,
+    "word_count": 6954,
+    "processed_file": "doc_02_carbon_capture_and_storage.txt"
+  },
+  {
+    "source_file": "climate-action-plan-2023-8b7dba92-f397-4163-8293-3aea656f6b5f.pdf",
+    "file_type": ".pdf",
+    "raw_length": 709954,
+    "cleaned_length": 699586,
+    "word_count": 112553,
+    "processed_file": "doc_03_climate-action-plan-2023-8b7dba92-f397-4163-8293-3aea656f6b5f.txt"
+  },
+  {
+    "source_file": "climate_change_in_europe.txt",
+    "file_type": ".txt",
+    "raw_length": 48326,
+    "cleaned_length": 48250,
+    "word_count": 7746,
+    "processed_file": "doc_04_climate_change_in_europe.txt"
+  },
+  {
+    "source_file": "climate_change_mitigation.txt",
+    "file_type": ".txt",
+    "raw_length": 76641,
+    "cleaned_length": 76575,
+    "word_count": 11555,
+    "processed_file": "doc_05_climate_change_mitigation.txt"
+  },
+  {
+    "source_file": "electricity_sector_in_ireland.txt",
+    "file_type": ".txt",
+    "raw_length": 7829,
+    "cleaned_length": 7820,
+    "word_count": 1168,
+    "processed_file": "doc_06_electricity_sector_in_ireland.txt"
+  },
+  {
+    "source_file": "emissions_trading.txt",
+    "file_type": ".txt",
+    "raw_length": 35663,
+    "cleaned_length": 34380,
+    "word_count": 5352,
+    "processed_file": "doc_07_emissions_trading.txt"
+  },
+  {
+    "source_file": "energy_policy_of_the_european_union.txt",
+    "file_type": ".txt",
+    "raw_length": 30131,
+    "cleaned_length": 30088,
+    "word_count": 4735,
+    "processed_file": "doc_08_energy_policy_of_the_european_union.txt"
+  },
+  {
+    "source_file": "environmental_protection_agency_ireland.txt",
+    "file_type": ".txt",
+    "raw_length": 2185,
+    "cleaned_length": 2178,
+    "word_count": 305,
+    "processed_file": "doc_09_environmental_protection_agency_ireland.txt"
+  },
+  {
+    "source_file": "european_green_deal.txt",
+    "file_type": ".txt",
+    "raw_length": 48811,
+    "cleaned_length": 48452,
+    "word_count": 7522,
+    "processed_file": "doc_10_european_green_deal.txt"
+  },
+  {
+    "source_file": "paris_agreement.txt",
+    "file_type": ".txt",
+    "raw_length": 38108,
+    "cleaned_length": 38067,
+    "word_count": 5961,
+    "processed_file": "doc_11_paris_agreement.txt"
+  },
+  {
+    "source_file": "sustainable_energy_authority_of_ireland.txt",
+    "file_type": ".txt",
+    "raw_length": 2300,
+    "cleaned_length": 2295,
+    "word_count": 348,
+    "processed_file": "doc_12_sustainable_energy_authority_of_ireland.txt"
+  },
+  {
+    "source_file": "transport_in_ireland.txt",
+    "file_type": ".txt",
+    "raw_length": 15348,
+    "cleaned_length": 15330,
+    "word_count": 2423,
+    "processed_file": "doc_13_transport_in_ireland.txt"
+  }
+]

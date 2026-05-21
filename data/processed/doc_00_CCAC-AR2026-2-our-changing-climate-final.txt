@@ -1,0 +1,1180 @@
+ANNUAL REVIEW 2026
+Our Changing
+Climate in 2025
+
+Annual Review 2026:
+Our Changing Climate in 2025
+Submitted to the Minister for Climate, Energy and the Environment
+on 27 March 2026
+Climate Change Advisory Council
+McCumiskey House
+Richview, Clonskeagh Road, Dublin 14, D14 YR62
+Tel: 01 2680180
+Email: info@climatecouncil.ie
+www.climatecouncil.ie
+© Climate Change Advisory Council 2026
+ISBN: 978-1-80009-352-2
+How to cite:
+Climate Change Advisory Council (2026), Annual Review 2026:
+Our Changing Climate in 2025. https://www.climatecouncil.ie/
+councilpublications/
+
+Climate Change Advisory Council Annual Review 2026iiiAcknowledgements
+The Climate Change Advisory Council would like to acknowledge the significant contributions of the
+Secretariat of the Climate Change Advisory Council to the drafting of this part of the Annual Review
+2026, especially:
+Bryn Canniffe
+Marta CarrascoStephen Flood
+George Hussey
+The Climate Change Advisory Council also acknowledges the contributions of the following in the
+preparation of this Review:
+‣The Adaptation Committee of the Climate Change Advisory Council,
+‣Met Éireann.
+The Climate Change Advisory Council would also like to thank:
+‣Ecodiversity for their provision of technical and project management services,
+‣Prepress Projects for their copy-editing, proofreading, design and typesetting of this Review.
+
+Climate Change Advisory Council Annual Review 2026ivSummary for All
+The Council examines national and global climate data in 2025, including observed trends,
+extreme weather events and their associated impacts, future projections and the implications
+for Ireland’s preparedness for and adaptation to climate change.
+Ireland’s climate is changing. Provisional data indicate that 2025 was the second-warmest year
+on record, with 7 of the 10 warmest years having occurred since 2005. Both the spring and
+summer of 2025 were the warmest on record and drier than average, with average summer
+temperatures almost 2°C above the 1961–1990 long-term average. A total of 49 public water
+supplies across 15 counties were declared to be in drought status by Uisce Éireann, leading
+to prolonged water shortages and water conservation orders. Autumn 2025 was the fourth
+wettest on record and six of the ten wettest autumns have now occurred since 2001. Storm
+Éowyn brought record-breaking winds in January 2025 and was the most expensive storm-
+related insurance event in Irish history, with claims exceeding €301 million. An attribution studya
+found that rainfall during Storm Claudia in November 2025 was nearly 12% more intense than
+it would have been in a cooler pre-industrial climate.
+Extreme conditions continued into 2026. In the lead up to Storm Chandra (26 and 27 January),
+parts of the south and east recorded three to four times their average rainfall, leaving
+catchments saturated and rivers already elevated, and resulting in severe flooding in parts of
+Dublin and Wexford.
+Globally, from 2015 to 2025 the world recorded the 11 warmest years in 176 years of
+observation, and the last 3 years were the 3 warmest. Ocean warming has rapidly increased
+over the past two decades and ocean temperatures in 2025 were among the highest on record.
+Rising ocean temperatures are intensifying storms and accelerating sea ice loss and sea level
+rise. The capacity of the planet’s natural carbon sinks to sequester carbon from the atmosphere
+is decreasing under the stress of rising temperatures, drought and deforestation. In 2025, the
+ten most costly extreme weather events caused damage costing in excess of €100 billion.
+Concentrations of major greenhouse gases – carbon dioxide, methane and nitrous oxide –
+have reached their highest ever recorded levels. Global emissions reduction efforts are failing,
+leading to continued warming and further increasing the likelihood and intensity of extreme
+events.
+a An attribution study is an analysis that helps determine how climate change is
+influencing the likelihood and severity of significant weather events.
+
+Climate Change Advisory Council Annual Review 2026vSummary of Storm Chandra
+Although this publication focuses on Ireland’s climate and related events in 2025, it is pertinent
+to reflect on Storm Chandra, which passed over Ireland on 26 and 27 January 2026. The
+impacts of the storm have reinforced the urgency of the Council’s previous recommendations
+to accelerate investment in and action on climate adaptation.
+Storm Chandra brought strong winds and heavy rain following a prolonged period of rainfall,
+with many rivers already approaching or exceeding bank-full conditions.[1] The south and
+east were particularly affected, with some parts of these regions experiencing three to four
+times their average rainfall over the period of 22–28 January.[2] Met Éireann’s January climate
+statement[3] confirms that County Dublin recorded its second-wettest January on record
+(behind January 1948). Johnstown Castle in County Wexford had its wettest January since
+1996 and the highest 3-month rainfall total on record for November 2025 to January 2026.[3]
+These antecedent wet conditions amplified the impacts of Storm Chandra, with further rain
+falling onto already saturated catchments and elevated rivers.
+Parts of Wexford and Dublin experienced severe local flooding. In Enniscorthy, County
+Wexford, floodwaters reached up to ‘five feet’ in places, with around 20 businesses and 30–
+40 homes affected.[4] Many of those affected have been unable to obtain flood insurance
+following previous extreme flooding in the town, most recently in 2015. A total of €55 million
+was allocated to the Enniscorthy Flood Relief Scheme in 2014,[5] with plans first presented for
+public exhibition in 2019;[6] however, construction of the scheme, which will provide protection
+to over 300 homes and businesses, remains stalled due to planning issues.
+Storm Chandra also resulted in significant transport disruption in the Dublin area, with a ‘major
+event’ declared on the M50 due to flooding and roads in south Dublin becoming impassable,
+with knock-on disruption to Dublin Bus services.[7] There was also major disruption on the
+railways, with the Rosslare line and a number of train stations in Dublin and the surrounding
+areas closed due to flooding, including from severe wave overtopping. Some Dublin residents
+reported being without a full water supply for up to 10 days as a result of flood-related damage
+to pumping infrastructure.[8]
+A rapid attribution study[9] has concluded that while the 1-day rainfall associated directly with
+Storm Chandra was ‘not particularly remarkable’, the 7-day rainfall accumulation was 9%
+higher than it would have been in a −1.3°C pre-industrial climate. It further concluded that
+this level of rainfall accumulation over a 7-day period is now almost three times more likely to
+occur than in a pre-industrial climate, shifting from a 1 in 150-year event to a 1 in 60-year event.
+The lessons learned from Storm Chandra will be further reflected on in the Adaptation Annual
+Review, due for publication in September 2026, as well as in relevant sectoral annual reviews
+that will be published over the course of the year. These publications will incorporate specific
+recommendations on improving preparedness for extreme events and increasing the resilience
+of critical infrastructure and communities.
+
+Climate Change Advisory Council Annual Review 2026viAbbreviations
+Abbreviation Definition
+AMOC Atlantic Meridional Overturning Circulation
+CMIP Coupled Model Intercomparison Project
+DAFM Department of Agriculture, Food and the Marine
+DOY day of the year
+EPA Environmental Protection Agency
+HAB harmful algal bloom
+HCLIM HARMONIE-Climate
+HPAI highly pathogenic avian influenza
+ICHEC Irish Centre for High-End Computing
+IPCC Intergovernmental Panel on Climate Change
+NCCRA National Climate Change Risk Assessment
+RCP representative concentration pathway
+SST sea surface temperature
+WASITUS Weather Attribution Science Irish Operational User Service
+
+Climate Change Advisory Council Annual Review 2026viiContents
+Acknowledgements iii
+Summary for All iv
+Summary of Storm Chandra v
+Abbreviations vi
+Contents vii
+Key observations (Ireland) viii
+Key observations (international) ix
+1. Introduction 1
+2. Latest scientific evidence for observed climate change 1
+2.1. State of Ireland’s climate 1
+2.1.1. Calendar of notable weather events 2
+2.1.2. Elevated temperatures 3
+2.1.3. Storm events 4
+2.1.4. Drought occurrences 5
+2.1.5. Marine heatwaves 6
+2.1.6. Impacts on other variables 7
+2.1.7. Attribution studies in Ireland – linking climate change
+and extreme events 9
+2.2. State of Europe’s climate 10
+2.3. State of the global climate 11
+2.3.1. Examples of extreme weather events in 2025 13
+3. Future climate projections, monitoring and impacts for Ireland 14
+3.1. Information and systems to support preparedness for extreme events 14
+3.2. Projections 15
+3.2.1. National climate change projections 15
+3.2.2. International climate change projections 16
+3.3. Monitoring 17
+3.4. Climate impacts for Ireland 17
+References 19
+
+Climate Change Advisory Council Annual Review 2026viii
+Our Changing Climate in 2025Key observations (Ireland)
+1. The average air temperature in Ireland in 2025 was provisionally 11.14°C. This makes
+2025 the second-warmest year on record, with 7 of the top 10 warmest years on
+record now having occurred since 2005, and it is only the second time in the 126-year
+record that the annual average temperature has been above 11°C.
+2. The summer of 2025 was the warmest summer on record in Ireland, with the a verage
+temperature being 1.94°C above Ireland’s 1961–1990 long-term average for summer
+temperatures. This followed the warmest and sunniest spring on record. The summer
+was particularly characterised by elevated night-time temperatures. Analysis by the
+Weather Attribution Science Irish Operational User Service (WASITUS) project found
+that these above-average temperatures were increased and made more likely by
+climate change. The year’s highest temperature of 31.1°C was recorded in Mount
+Dillon, Roscommon, in July.
+3. Drier than average spring and summer seasons resulted in drought conditions being
+experienced in several locations. There was considerable regional variation and 49
+public water supplies in 15 counties were officially declared by Uisce Éireann t o be in
+drought status, leading to prolonged water shortages and water conservation orders
+in these counties. Severe marine heatwaves were also experienced in the summer
+months.
+4. Evidence shows that warmer spring conditions in recent decades have shifted the
+seasonal timing of important lifecycle stages across multiple plant, bird and insect
+species in Ireland.
+5. Storm Éowyn, an event with record-breaking winds, occurred in 2025 and was the
+most expensive storm-related insurance event in Irish history, with claims in excess
+of €301 million. Damage from the storm and unprecedented power outages caused
+cascading impacts on livelihoods, telecommunications, health ser vices, and water
+supply and treatment.
+6. The meteorological autumn was the fourth-wettest autumn on record, and six of the
+top ten wettest autumns have now occurred since 2001. A WASITUS attribution study
+found that climate change increased both the magnitude and likelihood of the heavy
+rainfall during Storm Claudia in mid-November, with the 2-day rainfall event in Dublin,
+Wexford and Wicklow estimated to be nearly 12% more intense than it would have
+been in a pre-industrial climate.
+
+Climate Change Advisory Council Annual Review 2026ix
+Our Changing Climate in 2025Key observations (international)
+1. The global mean surface air temperature was 1.43°C above the pre-industrial level in
+2025 (with a margin of uncertainty of ±0.13°C), making it one of the three warmest
+years on record. The past 11 years, 2015–2025, have been the 11 warmest years
+in the 176-year observational record, with the past 3 years, 2023–2025, being the 3
+warmest years on record.
+2. The levels of carbon dioxide, methane and nitrous oxide in the atmosphere have
+reached their highest points in recorded history. The record high concentrations
+are accelerating global warming and turbocharging more extreme weather events,
+which continued to have cascading impacts on lives, livelihoods, food systems and
+ecosystems around the world in 2025.
+3. The global average concentration of carbon dioxide increased by 3.5 parts per million
+between 2023 and 2024. This was the biggest annual increase since records began
+and was driven by the continued burning of fossil fuels and a spike in wildfires.
+Global efforts to reduce greenhouse gas emissions and enhance carbon removals
+are failing to materialise at the pace and scale needed to keep the Paris Agreement’s
+temperature goal within reach. This underscores the need for sectors to plan for and
+address the risks of overshooting global temperature goals (e.g. higher warming
+scenarios exceeding 1.5°C or 2°C).
+4. Ocean temperatures were among the highest on record. Ocean warming has rapidly
+increased over the past two decades and is intensifying tropical and subtropical
+storms, accelerating sea ice loss and driving sea level rise.
+5. Climate change continues to increase both the likelihood and intensity of extreme
+weather events, including floods, heatwaves and tropical cyclones. Throughout 2025,
+severe climate-related disasters caused major economic disruption, social uphea val
+and significant loss of life, including unprecedented wildfires in Los Angeles, the r apid
+intensification of Hurricane Melissa across the Caribbean and a prolonged drought
+in West Asia. World Weather Attribution analysed 157 extreme events in 2025 that
+caused major humanitarian impacts, finding the vast majority to have been altered by
+human greenhouse gas emissions. The top ten most costly extreme weather events
+were responsible for damage costs exceeding €100 billion.
+
+Climate Change Advisory Council Annual Review 20261
+Our Changing Climate in 20251. Introduction
+This part of the Annual Review summarises the most recent developments in the understanding
+of Ireland’s changing climate in the context of broader global climate changes. It examines how the
+climate is currently changing and considers projected future changes. This information highlights
+the urgency of both adaptation and mitigation actions in the global and Irish contexts. It is based
+on recent developments and information sources, including international and national ‘state of the
+climate’ reports and other relevant research.
+2. Latest scientific evidence for observed climate change
+2.1. State of Ireland’s climate
+The average air temperature in Ireland in 2025 was provisionally 11.14°C.[10] This makes 2025 the
+second-warmest year on record, with 7 of the top 10 warmest years on record now having occurred
+since 2005, and it is only the second time in the 126-year record that the annual average temperature
+has been above 11°C.[10]
+This section summarises the main findings from Met Éireann’s Annual Climate Statement for
+2025 and its monthly weather statements and climate statements for each season in 2025.[11] For
+meteorological and climatological purposes, the Irish seasons are classified into 3-month periods:
+winter – December to February; spring – March to May; summer – June to August; and autumn –
+September to November.
+Winter 2024/25 brought Ireland’s highest wind gust on record during Storm Éowyn, which was
+followed by the warmest and sunniest spring on record and the warmest summer on record. Autumn
+was the fourth wettest on record, with both rainfall totals and temperatures being above average at
+all meteorological stations.
+More detailed information on the climate impacts affecting different sectors of the economy,
+including Agriculture, Biodiversity, Electricity, Transport and the Built Environment, was presented
+in the relevant sectoral annual reviews published in 2025.[12] These publications include specific
+recommendations to strengthen preparedness for extreme events and to enhance the resilience of
+critical infrastructure and communities.
+
+Climate Change Advisory Council Annual Review 20262
+Our Changing Climate in 20252.1.1. Calendar of notable weather events
+A calendar of notable weather events observed in Ireland in 2025 is presented below ( Figure 1 ).
+Figure 1: Calendar of notable weather events observed in 2025.
+(Source: Met Éireann.[10])Athenry, Co. Galway
+‣25.9°C on
+Wednesday 30 April
+‣The highest April
+daily maximum
+temperature on
+record for Ireland
+
+January
+April
+July
+OctoberFebuary
+May
+August
+NovemberMarch
+June
+September
+DecemberMace Head, Co. Galway
+(Storm Éowyn)
+‣Ireland’s highest
+ever wind gust of
+184 km/h
+‣A sustained
+10-minute mean
+wind speed of 142 km/hCork Airport
+‣213.4 mm of
+rainfall (220% of
+its 1991–2020
+long-term average)
+‣Its seventh-
+wettest February
+on record Dunsany Weather Station,
+Co. Meath
+‣11.2 mm of
+rainfall (18% of its
+1991–2020 long-
+term average)
+‣Its driest March
+on record
+Eleven weather stations
+‣Absolute droughts
+between 26 April
+and 22 MayPhoenix Park, Co. Dublin
+‣19.0°C
+‣A record high
+all-calendar-
+month minimum
+temperature
+Mount Dillon Weather
+Station, Co. Roscommon
+‣31.1°C
+‣Its second-
+highest
+temperature on
+record
+Finner, Co. Donegal
+
+‣25 wet daysJohnstown Castle, Co.
+Wexford
+‣161.3 mm of
+rainfall (191%
+more than
+its 1991–2020
+long-term average)
+Johnstown Castle, Co.
+Wexford
+‣51.1 mm of
+rainfall on Sunday
+14 December
+‣The second-
+highest daily
+December rainfall
+on recordPhoenix Park, Co. Dublin
+Dublin Airport
+‣Absolute
+droughts from 5
+to 22 August
+Johnstown Castle, Co.
+Wexford (Storm Claudia)
+‣66.9 mm of
+rainfall on Friday
+14 November
+‣The highest
+daily rainfall for
+November
+
+Climate Change Advisory Council Annual Review 20263
+Our Changing Climate in 20252.1.2. Elevated temperatures
+Ireland experienced its warmest summer on record in 2025, following on from the warmest
+and sunniest spring on record. Summer 2025 surpassed the summer of 1995 to become the
+warmest on record, with an average temperature of 16.19°C, which is 1.94°C above Ireland’s 1961–
+1990 long-term average and marginally warmer (0.08°C) than the previous warmest summer in
+1995.[13] Of the top ten warmest summers in Ireland, six have now occurred since 2000 ( Figure 2 ).
+The warmest summer on record in 2025 was driven by a combination of factors, with climate change
+being an underlying aggravating factor in the following:[13]
+‣Dry soils – Following the warmest spring on record, with dry and sunny conditions across the
+country, soils were very dry. With less evaporative cooling, heat builds up and lingers for longer.
+‣Heat domes to the south – Heat domes over western and central Europe (which caused a
+number of heatwaves there) occasionally pushed hot air masses over Ireland, bringing relatively
+short hot periods during each summer month.
+‣Marine heatwaves – While the severe marine heatwave of May 2025 eased off, sea surface
+temperatures (SSTs) remained elevated around the coasts of Ireland during the summer. Marine
+heatwaves, although less severe, lingered throughout all three summer months, especially to
+the south of Ireland. This meant that the warm air masses moving up from the south during the
+summer retained more heat.
+‣Warm nights – Most Met Éireann observing stations recorded their highest mean minimum
+temperature for summer on record, and several long-standing stations had their highest
+number of warm nights on record. With less sunshine and fewer hot days (days with maximum
+temperature > 25°C) compared with the next two warmest years on record, 1995 and 1976, the
+higher minimum temperatures during summer 2025 were a critical factor pushing the overall
+mean summer temperature higher. The elevated SSTs helped to keep night-time temperatures
+higher in general. According to a Weather Attribution Science Irish Operational User Service Figure 2: Top ten warmest summers on record for Ireland by decade.
+Mean summer temperature shown in degrees celsius. The mean temperature for 2025 is provisional.
+(Source: Met Éireann.[13])0123
+16.1°C16.2°C
+16.0°C
+15.9°C
+15.8°C
+15.7°C
+15.6°C
+15.5°C
+1930s 1940s 1950s 1960s 1970s 1980s 1990s 2000s 2010s 2020s
+Decade1933
+15.55°C1976
+15.81°C1983
+15.68°C1995
+16.11°C2006
+15.79°C2018
+15.77°C
+2013
+15.56°C2025
+16.19°C
+2023
+15.76°C
+2022
+15.51°CNumber of warmest summers
+
+Climate Change Advisory Council Annual Review 20264
+Our Changing Climate in 2025(WASITUS)a attribution study, the experienced average minimum temperatures are
+40 times more probable today than they were under conditions in a pre-industrial
+climate.[14]
+2.1.3. Storm events
+Five named storms directly affected Ireland in 2025 – Éowyn, Floris, Amy, Claudia (named by the
+Spanish State Meteorological Agency) and Bram.[10] In the absence of a national climate damage
+register, it is difficult to compare trends in the impacts of storm events from year to year. Each of
+the named storms brought strong winds, high rainfall, significant flood damage, widespread power
+outages and reports of coastal erosion.
+Storm Éowyn, which made landfall on 24 January 2025, brought the highest sustained wind speeds
+and gusts ever recorded in Ireland. Sustained hurricane-force winds resulted in 768,000 customers
+losing electricity supply ( Figure 3 ), over 200,000 premises being left without water and over one million
+telecommunications users being left with no broadband or phone coverage.[15,16] It was the most
+expensive storm-related insurance event in Irish history, with claims in excess of €301 million.[17]
+Storm Bram resulted in economic losses of €60 million,[18] including severe damage from coastal
+erosion to the Dublin Bay Great South Wall, which plays a key role in safeguarding and sheltering
+shipping channels into Dublin Port.[19] The economic damage from these storm events followed
+losses estimated at €4.1 billion, covering both direct and indirect costs, from flood and windstorm
+events in Ireland in 2024.[20,21]
+a WASITUS is delivered by the Irish Climate Analysis and Research Units (ICARUS) Climate
+Research Centre at Maynooth University. The project aims to develop an operational event
+attribution capability for Ireland, enabling rapid scientific analyses of how human-driven
+climate change influences the likelihood and severity of extreme weather events.Figure 3: Comparison of Storm Éowyn with previous significant storms with respect to
+customer power outages and days to restore power.
+(Source: Department of Housing, Local Government and Heritage.[22])0100,000200,000300,000400,000500,000600,000700,000800,000
+Éowy n (2025) Darragh (2024 ) Ophelia (201 7) Darwi n (2014)Days post storm19 18 17 16 15 14 13 12 11 10 9 8 76 543 210Customer ou tagesStormWind Speeds
+(in a gust)Sust ained Wind
+(10 min mean)Customer
+Outages
+Éowyn (Jan '25) ~184 km/h ~142 km/h 768 k
+Darragh (Dec '24) ~141 km/h ~111 km/h 398 k
+Ophelia (20 17) ~156 km/h ~115 km/h 396 k
+Darwin (20 14) ~159 km/h ~120 km/h 342 k
+
+Climate Change Advisory Council Annual Review 20265
+Our Changing Climate in 2025The severity of Storm Éowyn prompted the Government to undertake a review of its
+coordinated response and the Review of Storm Éowyn report was published in October
+2025.[22] It contains recommendations according to the thematic areas of:
+‣coordination of the response to Storm Éowyn,
+‣review of the communication of safety advice and other relevant information to the public
+during Storm Éowyn,
+‣humanitarian support in communities,
+‣resilience of critical infrastructure and essential services.
+The Council notes that an implementation plan is to be developed to ensure that the recommendations
+are further developed into actionable plans with owners and timelines for delivery. While it is noted
+that some key actions are under way, the implementation plan has not yet been published. The
+implementation of actions should be monitored and reported publicly.
+2.1.4. Drought occurrences
+Both the spring and summer of 2025 were characterised by prolonged dry periods, with Ireland
+classified under either drought watch, warning or alert by the European Drought Observatory in these
+periods. Provisional national gridded rainfall figures for 2025 ( Figure 4 ) show below-average rainfall
+in the spring months, average rainfall in the summer months and above-average rainfall in the
+autumn months.
+Figure 4: Provisional monthly gridded rainfall anomalies (percentage of 1991–2020
+long-term average) together with monthly rainfall totals in millimetres in 2025.
+(Source: Met Éireann.[10])117.3 mm126.6 mm
+37.5 mm93.1 mm
+56.3 mm99.1 mm 98. mm
+82.4 mm146. 3 mm157. 4 mm186. 9 mm
+137. 7 mm
+020406080100120140160180200
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec88%119%
+39%113%
+71%116% 105%
+80%147%121%134%
+97%Rainfall (mm)
+
+Climate Change Advisory Council Annual Review 20266
+Our Changing Climate in 2025There were numerous climatological dry periods during the spring and summer months.
+Climatological dry periods are classified as dry spells, absolute droughts and partial
+droughts.b In spring 2025, 3 stations had partial droughts, 11 stations had absolute droughts
+and 22 stations had dry spells. In the summer months, two stations had absolute droughts and nine
+stations had dry spells. There was considerable regional variation in the drought impacts ( Figure 5 ),
+with prolonged water conservation orders being put in place by Uisce Éireann. A total of 49 public
+water supplies in 15 counties were officially declared by Uisce Éireann to be in drought status,[23]
+leading to prolonged water shortages and water conservation orders in these counties.
+2.1.5. Marine heatwaves
+Marine heatwaves, occurring when the SST is significantly above average for a long period of time,
+were again observed in the summer of 2025, particularly in the months of May and August. The UK
+Met Office placed the May marine heatwave at the extreme end of the spectrum, with SSTs up to 4°C
+b A dry spell is a period of 15 or more consecutive days to none of which is credited 1.0 mm
+or more of precipitation (i.e. daily total < 1.0 mm). An absolute drought is a period of 15 or
+more consecutive days to none of which is credited 0.2 mm or more of precipitation. A partial
+drought is a period of at least 29 consecutive days, the mean daily rainfall of which does not
+exceed 0.2 mm.Figure 5: Monthly precipitation anomalies observed at the catchment level in Ireland in
+2025 using monthly Standardized Precipitation Index (SPI) values, comparing conditions
+with those of the previous 3 months.
+Standardized Precipitation Index indicators allow for estimating the potential impacts of
+meteorological drought. The lower (more negative) the indicator, the more intense the drought.
+(Source: Met Éireann; personal communication.)
+< –2: Extremely Dry
+−2 to −1.5: Severely Dry
+−1.5 to −1: Moderately Dry
+−1.0 to 0: Mildly Dry
+0 to 1.0: Mildly Wet
+1.5 to 1.5: Moderately Wet
+1.5 to 2: Severely Wet
+> 2: Extremely Wet
+
+Climate Change Advisory Council Annual Review 20267
+Our Changing Climate in 2025above average.[24] The August marine heatwave was rated as severe for most of the western
+and eastern coastal areas ( Figure 6 ). These episodes are expected to become more intense,
+longer and more frequent in response to anthropogenic global warming.
+2.1.6. Impacts on other variables
+Climate change impacts continued to interact with and exacerbate existing environmental stresses.
+Outbreaks of diseases and alien invasive species
+The National Climate Change Risk Assessment (NCCRA) identifies the increase in occurrence
+of invasive species due to changes in climatic conditions as a substantial risk by 2050 and a
+critical risk by 2100, according to both representative concentration pathway (RCP) 4.5 and 8.5
+scenarios.[26] Climate change continues to alter environmental conditions, with milder winters and
+warmer summers expected to make Ireland more favourable to outbreaks of disease and the spread
+of invasive species, enabling them to thrive and disrupt local ecosystems and outcompete native
+flora and fauna in terrestrial ecosystems.
+In 2025, the continued prevalence of diseases such as ash dieback and outbreaks of highly pathogenic
+avian influenza (HPAI) and blue tongue showed the vulnerability of the Agriculture and Forest sectors
+and native biodiversity to diseases. Ash dieback was first detected in Ireland in 2012 and is estimated
+to affect approximately 16,000 hectares of ash forests.[27] There is increasing evidence that climate
+change is accelerating the global spread and emergence of new avian influenza variants.[28] Figure 6: Example of marine heatwaves experienced in August 2025, as observed by the
+Copernicus Marine Service. ‘Severe’ and ‘extreme’ SSTs can be seen on the coasts
+around Ireland.
+(Source: Mercator Ocean International.[25])
+
+Climate Change Advisory Council Annual Review 20268
+Our Changing Climate in 2025Avian migratory patterns and routes are changing and migratory waterfowl are particularly
+susceptible to avian influenza viruses.[29]
+The National Farmed Animal Biosecurity Strategy (2025–2030) recognises the risk of climate
+change increasing the extent of disease vectors and outlines the need for measures including risk
+assessments, monitoring programmes, training and strengthened on-farm biosecurity.[30] In 2025,
+five outbreaks of HPAI were confirmed on poultry premises in Ireland,[31] while 68 wild birds tested
+positive for HPAI across the country.[32] The HPAI situation resulted in the closure of Fota Wildlife
+Park in County Cork from October to December 2025. Species alerts were issued for the Asian hornet
+(Vespa velutina ), with one nest identified and removed in Cork city and another in Cobh in September
+2025, while a single Asian hornet was also recorded in Dublin in July 2025.[33] While the pathways
+of introduction for these species are not known, the sightings have highlighted the risks to Ireland’s
+native biodiversity and economy and the urgent need to strengthen systems for the surveillance and
+control of both alien invasive species and diseases.
+Harmful algal blooms
+High seawater and freshwater temperatures exacerbate eutrophication pressures and contribute
+to the development of harmful algal blooms (HABs).[34] Research funded by the Environmental
+Protection Agency (EPA) identified climate change, particularly increased temperatures and high-
+rainfall events, as one the causes of the 2023 Lough Neagh HAB, in combination with excess
+nutrients and the presence of invasive zebra mussels.[35] The research also evaluated the threat and
+potential impact of HABs on 35 Irish lakes, drawing lessons from the case of Lough Neagh and
+finding that 7 of the 35 lakes face a high potential threat of serious HAB events due to a combination
+of factors like those implicated in the Lough Neagh bloom. Several cases of severe HABs were
+reported during the summer of 2025, including in Lough Derg, Lough Corrib and Lady’s Island Lake.
+HABs pose a significant challenge to water supply and have significant and complex impacts on
+human health, biodiversity and ecosystem functioning in aquatic environments. The environmental
+and economic impacts of these HABs and the costs of restoration will continue to increase with
+warmer temperatures and longer and more frequent heatwave periods.
+Wildfires
+While Ireland’s wildfire regime is different to those of the other regions highlighted in Sections 2.2
+and 2.3, it is notable that both Ireland and the UK experienced an increase in wildfires in 2025.[36,37]
+Changes related to land management, rural demographics and fuel loads on affected lands all have
+a strong influence on wildfires. Wildfires are identified in the NCCRA as a substantial current risk to
+forests, with the risk likely to become critical late century under the RCP 8.5 scenario.[26]
+The Department of Agriculture, Food and the Marine (DAFM) issued nine fire danger notices in 2025[38]
+and a total of 4,355 hectares was burned by wildfires in Ireland in 2025 compared with an average
+of 3,139 hectares in the period 2006–2024 – an increase of almost 39%.[37] A total of 31 wildfires (of
+approximately 30 hectares or larger) were reported in 2025 compared with an average of 12 wildfires
+in the period 2006–2024. DAFM has highlighted the considerable damage to forests (both private
+and state-owned) in recent years as well as the catastrophic impacts of wildfires on upland habitats
+and rural communities, including endangering lives and property and causing economic losses for
+the Forestry sector. Conditions favourable to wildfires are likely to occur more frequently with climate
+change, with increasingly hotter and drier summers and associated higher levels of recreational
+activity. DAFM continues to advise all forest owners and managers to strengthen preparations for
+wildfires, including through prescribed burning, fire risk assessments and fire plans for all forests,
+and increased investment in fire-fighting tools and equipment.
+
+Climate Change Advisory Council Annual Review 20269
+Our Changing Climate in 2025Impacts on phenology
+Phenology refers to the study of the timing of biological events in relation to seasonal changes
+in the environment, including flowering, breeding, migration and hibernation.[39] Climate factors
+such as temperature, precipitation and availability of sunlight have a fundamental influence on the
+phenology and structure of biotic communities.
+Changes in phenology, including timing of bird migration and plant flowering, are an observed impact
+of climate change in Ireland.[40] Met Éireann has undertaken phenological tree monitoring at its
+Valentia Observatory since the 1960s. It conducts regular checks of each tree specimen to document
+the overall status of the tree and takes note of any phenophases with the date and day of the year
+(DOY) (1–365). It looks at the indicator of leaf unfolding – the DOY when the first regular structure of
+the leaf is visible in three to four places on the tree/plant. Figure 7 shows consistent overall earlier
+leaf unfolding among ten tree species since the 1960s at the Valentia Observatory’s phenological
+garden, with substantial species-to-species and interdecadal variability. Evidence shows that warmer
+spring conditions in recent decades have shifted the seasonal timing of important lifecycle stages
+across multiple plant, bird and insect species in Ireland.[41,40]
+2.1.7. Attribution studies in Ireland – linking climate change and
+extreme events
+The field of event attribution science – the linking of climate change and individual extreme events –
+continues to evolve, and advances in attribution capability in Ireland now make it possible to rapidly
+analyse the influence of climate change on a complex range of extreme weather events.
+An interesting feature of the warm temperatures experienced in 2025 was that it was record night-
+time temperatures rather than day-time temperatures that pushed the temperature average up to Figure 7: Mean decadal DOY of leaf unfolding phase in trees at Valentia Observatory.
+(Source: Met Éireann; personal communication.)708090100110120130
+1960s 1970s 1980s 1990s
+DecadeMean DOY
+2000s 2010s 2020sDowny birchEared willowEuropean beechGrey poplar
+Hazel
+LilacSharp-leaf willowSmall-leaved lime
+Smith willowWild cherry
+
+Climate Change Advisory Council Annual Review 202610
+Our Changing Climate in 2025break the record for the warmest summer. Most Met Éireann observing stations recorded
+their highest mean minimum temperature for summer on record. A rapid attribution study,
+undertaken by the WASITUS[14] project, funded by the EPA and Met Éireann, found that the
+average minimum temperatures experienced in 2025 are now 40 times more likely to occur than they
+were in a pre-industrial climate. For possible future climates that are 1.5°C, 2°C or 3°C warmer than
+pre-industrial levels, similar summer average minimum temperatures will become 63, 126 and 315
+times more likely than they would have been without human-caused climate change.
+Another rapid attribution study by WASITUS[42] found that climate change has made heavy rainfall
+events that contributed to flooding during Storm Claudia in November both more intense and more
+likely. The rainfall magnitude of the 2-day event in Dublin, Wexford and Wicklow has increased by
+about 12% compared with pre-industrial times. The level of rainfall was also recorded for the 30 days
+prior to the storm. The magnitude of rainfall from a 30-day event across several eastern counties has
+increased by nearly 7% due to climate change. Both 2-day and 30-day heavy rainfall events are now
+twice as likely as they were before industrialisation. Global warming of 3°C could mean that similar
+2-day events occur every 1–2 years, and that 30-day events occur every 2 years.
+2.2. State of Europe’s climate
+Europe continues to be the fastest warming continent. In the European region, 2025 was the third-
+warmest year on record, with an average temperature of 10.41°C – 1.17°C above the average for the
+1991–2020 reference period.[43] Portugal and Spain experienced their highest recorded temperatures
+for June, reaching 46.6°C and 46.0°C, respectively. Türkiye set a new national temperature record
+of 50.5°C in July. Several regions in France and Germany also registered unprecedented high
+temperatures. The intense summer heatwaves triggered widespread wildfires and displacements of
+populations – about 29,000 individuals in Spain, 15,000 in Greece and 50,000 in Türkiye.[44]
+Focus on wildfires
+A record area in Europe of more than one million hectares was burned by wildfires in 2025,
+compared with an average of 323,135 hectares during the period 2006–2024. Spain and
+Portugal were worst affected, with 385,000 and 275,000 hectares burned, respectively. This
+marked a nearly 484% increase on the 2006–2024 average in Spain and a 286% increase
+in Portugal ( Figure 8 ). The fires resulted in at least eight deaths, tens of thousands of
+evacuations and record emissions of carbon, with 41.83 Mt CO2 emitted in 2025.[45] A World
+Weather Attributionc study found that the hot and dry conditions that exacerbated the fires
+are now 40 times more frequent and around 30% more intense than in the pre-industrial
+climate.[46]
+c World Weather Attribution is an international scientific initiative that analyses how climate
+change influences extreme weather events. It quantifies how climate change influences the
+intensity and likelihood of an extreme weather event in the immediate aftermath of the extreme
+event using weather observations and computer modelling. World Weather Attribution studies
+also evaluate how existing vulnerabilities worsen the impacts of extreme weather events.
+
+Climate Change Advisory Council Annual Review 202611
+Our Changing Climate in 2025Figure 8: Area in hectares burned per country in 2025 compared with the annual average
+for 2006–2025.
+(Source: European Forest Fire Information System.[37])
+2.3. State of the global climate
+The year 2025 was one of the three warmest years on record.[47] The global mean surface air
+temperature was 1.43°C above the 1850–1900 average (with a margin of uncertainty of ±0.13°C).[44]
+The past 11 years, 2015–2025, have been the 11 warmest years in the 176-year observational record,
+with the past 3 years being the 3 warmest years on record.
+The State of the Climate 2025 report by the World Meteorological Organization[44] showed that
+records were once again broken in 2025 for greenhouse gas concentrations, global and regional
+surface temperatures ( Figure 9 ), ocean heat and acidification levels, sea level rise, Antarctic sea ice
+cover loss and global glacier retreat.050,000100,000150,000200,000250,000300,000350,000400,000450,000
+Spain Portugal Romania Italy Greece France Bulgaria Ireland Croatia SwedenAnnual average hectares burned (ha)
+CountryAnnual average
+Year 2025
+
+Climate Change Advisory Council Annual Review 202612
+Our Changing Climate in 2025Key messages from the 2025 report[44] are that:
+‣The global annual mean SST in 2025 was 0.39°C above the 1991–2020 average and around
+0.12 ± 0.03°C cooler than in 2024, consistent with the shift from El Niño to La Niña conditions,
+but it still ranked as one of the three warmest years on record.[48] The long-term rate of sea
+level rise increased. The year 2024 set a new record for the annual global mean sea level as
+measured by satellites. Since satellite measurements began, the rate of sea level rise has risen
+from 2.1 mm per year between 1993 and 2002 to 4.1 mm per year between 2016 and 2025.
+This upward trend is driven by ocean warming and thermal expansion, alongside the ongoing
+loss of ice from glaciers and ice sheets.
+‣The levels of carbon dioxide, methane and nitrous oxide in the atmosphere reached their
+highest recorded values in 2024, the most recent year for which global consolidated figures are
+available. Preliminary data suggest that concentrations of all three key greenhouse gases have
+risen further in 2025. The global average concentration of carbon dioxide increased by 3.5 parts
+per million between 2023 and 2024. This was the biggest annual increase since records began
+and was driven by the continued burning of fossil fuels and a spike in wildfires.
+‣In 2025, the global upper-2000 m ocean heat content rose by approximately 23 ± 8 zettajoules
+relative to 2024. This increase is equivalent to roughly 200 times the total global electricity
+generation in 2024.[48]
+‣Ocean warming rates have increased significantly over the past two decades ( Figure 10 ) and
+are intensifying tropical and subtropical storms, accelerating sea ice loss and contributing to Figure 9: Annual global mean temperature anomalies relative to the 1850–1900 average,
+shown from 1850 to 2025 for eight datasets.
+CMA-GST, China Meteorological Administration global merged surface temperature; CMST,
+China merged surface temperature; DECENT-I, Dynamically Consistent Ensemble of Surface
+Temperature; ERA5, European Centre for Medium-Range Weather Forecasts Reanalysis version
+5; GISTEMP , Goddard Institute for Space Studies Surface Temperature Analysis; JRA-3Q,
+Japanese Reanalysis for Three Quarters of a Century; NOAAGlobalTemp v6, National Oceanic
+and Atmospheric Administration Global Surface Temperature Dataset version 6.
+(Source: World Meteorological Organization.[47])
+
+Climate Change Advisory Council Annual Review 202613
+Our Changing Climate in 2025sea level rise. The average rate of warming was 0.6 ± 0.1 watts/m2 from 1971 to 2024
+and 1.0 ± 0.1 watts/m2 from 2005 to 2024. This indicates that the Earth is currently
+absorbing more energy than it releases, resulting in an increasing energy imbalance.
+‣In the latest reference hydrological year of 2023/24, data from a set of reference glaciers
+indicate a global annual mass negative balance of 450 gigatonnes, nominally the largest loss
+of ice on record since 1950. In addition, 2024 was the third consecutive year in which all 19 of
+the monitored glaciated regions around the world recorded net mass loss.
+‣In 2025, both the Antarctic and Arctic sea ice extents remained below the average. The Arctic
+sea ice reached its annual peak of 14.19 ± 0.40 million km2 between 20 and 21 March 2025,
+marking the lowest recorded maximum extent since satellite tracking began in 1979.
+‣River discharge is one of the key indicators of the global water cycle, revealing shifts in
+precipitation and temperature patterns. In 2024, about two-thirds of the global catchment area
+was outside normal discharge rates compared with data recorded from 1991 to 2020. This
+continues a 6-year pattern of disruption and highlights persistent disturbances, with many
+regions experiencing either excessive or insufficient water flow.
+2.3.1. Examples of extreme weather events in 2025
+Climate change continues to increase both the likelihood and intensity of extreme weather events,
+including floods, heatwaves and tropical cyclones. Throughout 2025, severe climate-related
+disasters caused major economic disruption, social upheaval and significant loss of life. World
+Weather Attribution analysed 157 extreme events in 2025 that caused major humanitarian impacts,
+finding the vast majority to have been altered by greenhouse gas emissions from human activities.
+[50] The top ten most costly extreme weather events were responsible for damage costs exceeding
+€100 billion.[51]Figure 10: Annual global ocean heat content to a depth of 700 m difference from 1981–
+2010 average. Four dataset families – EN4, Levitus, Japan Meteorological Agency and
+Cheng et al . – are shown. They agree on the overall warming of the upper ocean.
+IAP , Institute of Atmospheric Physics; JMA, Japan Meteorological Agency.
+(Source: UK Met Office.[49])
+
+Climate Change Advisory Council Annual Review 202614
+Our Changing Climate in 2025 ‣Wildfires in Los Angeles, USA – In January 2025, wildfires burned more than 9,000
+hectares, killed over 400 people and destroyed entire neighbourhoods in parts of Los
+Angeles.[51] This was the most destructive and expensive wildfire event in US history, with
+total economic losses exceeding US$60 billion. The weather conditions – including extreme
+dryness, heat and high winds – that enabled the wildfires to be so devastating are at least 35%
+more likely in today’s climate than they would be in a world without human-induced climate
+change.[52]
+‣Hurricane Melissa, Jamaica, Cuba and the Bahamas – Hurricane Melissa is the third-most
+intense Atlantic hurricane on record and was the strongest tropical cyclone worldwide in 2025.
+The hurricane, which made landfall in October 2025, caused widespread destruction, including
+severe damage to homes, businesses, critical infrastructure, communication networks and
+power grids. Estimates of the economic cost vary, as assessments have not been finalised,
+but preliminary analyses suggest losses of around US$8 billion. Scientists have noted that
+Melissa’s rapid intensification is consistent with climate change, as warmer SSTs provide more
+energy for such storms. Attribution scientists concluded that climate change enhanced the
+intensity of the hurricane over Jamaica by 30% and made it about twice as likely to occur.[53]
+‣Drought in West Asia and Iran – A 5-year drought continues to grip large parts of West Asia,
+including Iran, Syria and Iraq.[51] In Syria, the drought contributed to the severity of wildfires,
+and in Lebanon, the water level at Lake Qaraoun, the largest body of freshwater, hit an historic
+low. In Iran, an unprecedented and ongoing water crisis is impacting livelihoods and crops.
+Local authorities warned that if the crisis persists, the country’s capital, Tehran, where nearly
+ten million people live, might need to be evacuated. The drought has been linked to climate
+change through at least two studies by the World Weather Attribution team in 2023[54] and 2025.
+[55] Both studies found that the drought would not have happened in a world without human-
+induced global warming.
+3. Future climate projections, monitoring
+and impacts for Ireland
+As the impacts of climate change worsen, climate services and consideration of climate risks are
+increasingly needed to inform decision-making. In the Irish context, the provision of robust and
+timely climate services and information is particularly important to support the implementation of
+the second iterations of the sectoral adaptation plans, which were published in November 2025.[56]
+The Government’s decision to establish a National Framework for Climate Services in 2022[57] was
+made with this need in mind.
+The first NCCRA,[26] which was published by the EPA in June 2025, also informs national, sectoral
+and local adaptation planning by prioritising areas where urgent action is needed to build climate
+resilience. The NCCRA identifies 115 risks and 5 potential opportunities across 9 systems. It
+highlights 43 significant national risks, including impacts to infrastructure, health, biodiversity and
+the economy.
+3.1. Information and systems to support preparedness for extreme events
+Early warning systems are identified as an area requiring focus and continuous improvement in
+the Review of Storm Éowyn report.[22] The Council supports the need to strengthen early warning
+systems for the range of climate hazards that Ireland is exposed to. The Council is further concerned
+that there continues to be limited timely and systematic information available on the economic,
+
+Climate Change Advisory Council Annual Review 202615
+Our Changing Climate in 2025social, health and environmental impacts of specific extreme weather events in Ireland.
+Information on the economic impacts of extreme events is fragmented across a wide range
+of stakeholders, such as local authorities, insurance companies and semi-state agencies.
+The impacts of these events on critical infrastructure and services, the built environment and
+productive assets such as agricultural land and forestry are also likely to become increasingly severe.
+Promising initiatives at the local authority level, such as the Weather Impacts Register (WIRE) app,
+have not been rolled out effectively to date, although pilot testing is under way at present. While
+actions to establish sectoral impact registers have been noted in several sectoral adaptation plans,
+including those for the health sector and the electricity and gas networks, the urgent establishment
+of a national climate damage register by the Government and relevant agencies is now critical to
+ensure that a standardised and holistic approach is taken.
+The Council welcomes the initial research funded by the EPA on identifying the potential impacts of
+extreme weather events on Special Areas of Conservation and Special Protected Areas in Ireland.[58]
+It identifies a vulnerability assessment framework that can be deployed at both national and local
+levels, and that needs to be rolled out to better understand the impacts of extreme weather events
+on priority species and habitats. Further research is also needed on the loss of ecosystem services
+in the Irish context that is being caused by escalating extreme weather events, including storms,
+intense rainfall events, droughts and marine heatwaves.[40]
+3.2. Projections
+3.2.1. National climate change projections
+TRANSLATE is an established national programme funded and led by Met Éireann (currently
+beginning its third phase, TRANSLATE-3) that brings together members of the Irish climate action
+community to develop and mainstream national climate change scenarios for effective, climate-
+smart decision-making at the national and local levels. The TRANSLATE programme informs and
+underpins many essential national and local climate directives. It feeds directly into the National
+Framework for Climate Services to support climate service development, coordination and
+standardisation across the country. It also underpins projections for Climate Ireland, the national
+portal for climate adaptation.[59] It is embedded within the National Adaptation Framework[60] and the
+NCCRA and, as a result, supports local climate action plans and sectoral adaptation plans mandated
+by the Government.
+In 2023, Met Éireann released the first iteration of the TRANSLATE climate change scenarios.[61] These
+scenarios provide standardised, high-resolution, accessible and bias-corrected climate scenarios for
+Ireland. The Irish Centre for High-End Computing (ICHEC) produced the full set of input protections
+for TRANSLATE, which used an ensemble of existing Coupled Model Intercomparison Project (CMIP)
+Phase 5 (CMIP5)[62] global and EURO-CORDEXd[63] models that are downscaled over Ireland in line
+with international best practice, ensuring that projections are consistent with other countries and
+represent state-of-the-art climate science, while remaining situated within the local Irish context.[64]
+The TRANSLATE scenarios sample uncertainty from both future emissions and the climate system
+response to those emissions, ensuring that decision-makers have access to projections for a broad
+range of plausible futures. These standardised climate scenarios provide the most comprehensive
+d EURO-CORDEX is the European branch of the international Coordinated Regional Climate
+Downscaling Experiment initiative, which is a programme sponsored by the World Climate
+Research Programme to organise an internationally coordinated framework to produce
+improved regional climate change predictions for all land regions worldwide.
+
+Climate Change Advisory Council Annual Review 202616
+Our Changing Climate in 2025picture of Ireland’s future changes in temperature and precipitation to date across a range
+of scenarios, or RCPs (RCP2.6, RCP4.5, RCP8.5), up to the end of the century. Climate
+information is also presented on threshold-based global warming levels (1.5°C, 2°C, 2.5°C,
+3°C and 4°C), i.e. showing how Ireland could change if the global average temperature increases
+by ‘x’oC beyond pre-industrial levels. TRANSLATE is free and easily accessible to users in multiple
+formats to ensure that the standardised data can be utilised across the country and across user skill
+levels.
+To date, the TRANSLATE dataset includes information on the core variables of temperature,
+precipitation, wind speed, relative humidity and solar radiation, as well as a number of calculated
+climate indicators associated with these, to aid adaptation planning. These data are freely available
+from both Met Éireann and Climate Ireland. TRANSLATE-2[65] also developed two risk frameworks
+(qualitative and quantitative) to address sector-specific impacts and risks associated with Ireland’s
+changing climate.
+TRANSLATE-3 commenced in September 2025 and will continue until 2029, building and expanding on
+the previous TRANSLATE iterations. It has three core pillars: (1) underpinning data, (2) understanding
+risks arising from climate extremes and (3) developing climate services that convert climate
+science into practical tools for decision-makers. It aims to expand the national dataset to include
+annual to decadal information, as well as updating the climate change scenarios from CMIP5 to
+CMIP6[66] in line with the Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment
+Report,[67] taking advantage of the updated standardised future scenarios (shared socio-economic
+pathways). It will examine extreme events and their associated impacts, and evaluate how these
+could change in the future. Following this underpinning work, climate services will be produced to
+showcase how this information can be tailored to meet user requirements. Climate storylines for
+Ireland form a fundamental element of the TRANSLATE-3 communication approach in the form of
+scenario-, persona- and event-based storylines, increasing the accessibility of climate information
+across society.
+3.2.2. International climate change projections
+Both ICHEC and Met Éireann are partners in the Earth system modelling consortium EC-Earth
+and the regional climate modelling consortium HARMONIE-Climate (HCLIM). Both are European
+climate modelling consortia consisting of national weather services and universities, with EC-EARTH
+simulating changes in the global Earth system and HCLIM simulating the regional impacts of global
+change.
+At the European level, coordinated experiments to undertake regional downscaling continue under
+the auspices of EURO-CORDEX. These model runs are freely available and are downscaled from a
+broad range of driving Earth system models that participated in CMIP5. EURO-CORDEX is currently
+in the process of updating from CMIP5 to CMIP6. When completed, the TRANSLATE-3 ensemble
+will be expanded to include members from this European resource, including projections from the
+HCLIM model.
+The CMIP is a collaborative framework designed to improve knowledge of climate change. Ireland’s
+contribution to CMIP6 consisted of a set of EC-Earth 3 simulations produced by ICHEC, supported
+by funding from the EPA and Met Éireann.[68] These models underpin the various IPCC iterations.
+CMIP7,[69] the latest development phase, has been designed to support specific user needs, including
+supporting the needs of the IPCC Seventh Assessment Report assessment cycle, and will help to
+further refine the understanding of past, present and future climate changes. The small, targeted,
+‘fast-track’ experiment sets, in addition to the growing number of model intercomparison projects,
+reflect extensive feedback from the modelling centres and the wider user community.
+
+Climate Change Advisory Council Annual Review 202617
+Our Changing Climate in 20253.3. Monitoring
+Met Éireann, in collaboration with partners, continues to improve Ireland’s climate observation
+networks. In October 2023, a new weather radar system was installed at Shannon Airport.[70] This
+modern radar system now provides more accurate rainfall information to weather forecasters, the
+public and researchers. The Weather Radar Expansion Network Project is Met Éireann’s strategic
+programme to expand and upgrade Ireland’s national weather radar network, enhancing real-time
+rainfall detection, strengthening flood forecasting and emergency response, and providing more
+accurate data for national and local decision-making.[71] The plan will increase the number of
+radars from two to seven over the next 5 years at locations in Roscommon, Cork, Kilkenny, Donegal
+and Meath.
+The year 2023 also saw the automation of almost 80 climate monitoring stations throughout Ireland.
+This not only improved the resolution of climate information being monitored but also provides near
+real-time weather information to support emergency management, including the issuing of weather
+warnings. Met Éireann also commenced a rainfall automation project that, in tandem with the radar
+expansion, will better capture rainfall in near-real time.
+The Irish Global Climate Observing System National Committee, consisting of members from Met
+Éireann, the Marine Institute, the EPA and Teagasc, as well as remote sensing experts, continues
+to review the status of essential climate variables for Ireland, ensuring their sustained long-term
+measurement and alignment with international standards. The Irish Soil Moisture Observation
+Network[72] coordinates soil moisture measuring networks in Ireland and, in collaboration with the UK
+Cosmic-Ray Soil Moisture Monitoring Network, sites in Northern Ireland. Over the past year, further
+enhancements have been made to the network to improve the monitoring of soil moisture throughout
+Ireland. Soil moisture, an essential climate variable, plays a crucial role in environmental processes
+such as the water cycle, weather and climate, vegetation growth and groundwater availability.
+Met Éireann, in partnership with the Commissioners of Irish Lights, is conducting nearshore
+monitoring through a pilot programme that retrofits four navigation buoys with oceanographic, wave
+and meteorological sensors.[73]
+Met Éireann and the Marine Institute are collaborating on improving the availability of tidal data from
+around the Irish coast. Ongoing research funded by the EPA through the HydroDetect project[74] is
+developing an updated reference hydrometric network for monitoring and detecting changes in river
+flows (floods, droughts, season flows) across Ireland. Other research being funded by the EPA and
+Met Éireann includes the HydroDARE project,[75] which is developing approaches to the attribution of
+changes detected in hydrological extremes to enhance the ability to discern a climate change signal
+in floods and droughts. The Council reiterates its recommendation from the 2025 Annual Review
+publication Our Changing Climate in 2024[76] that the Government should ensure that funding and
+necessary support, underpinned by appropriate legislation where relevant, are in place to sustain and
+improve the national climate observation system. This will allow for consistency, with a sustained
+national contribution to the Global Climate Observing System. The national system should include all
+critical atmospheric, land and ocean variables.
+3.4. Climate impacts for Ireland
+Globally, the past 11 years (2015–2024) have been the 11 warmest years on record. Ireland’s overall
+warming trend continues in line with global trends, with 7 of the top 10 warmest years in Ireland
+having occurred since 2005. The latest Irish climate change projections indicate further warming in
+the future. This temperature change means that the likelihood of extreme weather events occurring
+has increased. Irish rainfall patterns are expected to change, with an increase in both dry periods
+
+Climate Change Advisory Council Annual Review 202618
+Our Changing Climate in 2025and heavy rainfall events. Global sea levels continue to rise. Coastal erosion is already a
+major problem on certain parts of the coast. Storm surge and coastal flooding risks around
+Irish coasts are expected to increase along with ‘compound events’ involving a combination
+of heavy rainfall and high tides.[26] It is currently unclear how the frequency and intensity of storms
+impacting Ireland will change with climate change. There is high confidence, however, that maximum
+rainfall rates associated with these storms will increase with warming.
+The projected impacts of climate change on eight key sectors in Ireland were identified in Ireland’s
+Climate Change Assessment Volume 3,[40] which was published in early 2024. In June 2025, the
+NCCRA expanded on this by assessing 115 climate-related risks and prioritising those requiring
+urgent adaptation action.[26]
+With every additional tenth of a degree of global warming, the risk of exposure to potential tipping
+points increases. One of the most important potential tipping points affecting Ireland is the shutdown
+of the Atlantic Meridional Overturning Circulation (AMOC). Moving large amounts of heat northwards
+in the North Atlantic Ocean, the AMOC helps to create Ireland’s temperate climate. Observations
+over recent decades indicate a quasi-stable or slightly weakening AMOC.[77,78] There is growing
+scientific evidence that a tipping point leading to an abrupt AMOC weakening could be exceeded
+during this century.[79,80] However, after the tipping point is exceeded it is possible that it would take
+several decades to a century to bring the AMOC to a fully weakened state, moving a possible AMOC
+shutdown into the 22nd century.[80] Consistent with this, climate model simulations constrained
+with observation data show that the AMOC will weaken gradually, reaching a 34–45% decline at the
+end of this century compared with present day.[81] The potential consequences for Ireland require
+more research, but global and European studies suggest the possibility of increased seasonality for
+Ireland (warmer and drier summers along with wetter and stormier winters).[82–84] Furthermore, local
+impacts on sea level rise around Ireland need to be investigated, including in light of land ice melting
+in Greenland and Antarctica and its interaction with the AMOC.
+
+Climate Change Advisory Council Annual Review 202619
+Our Changing Climate in 2025References
+1 Met Éireann, ‘Storm Chandra impacting eastern and southern counties on Tuesday, 27th January 2026’.
+Accessed: Feb. 11, 2026. [Online]. Available: https://www.met.ie/meteorologists-commentary/
+storm-chandra-impacting-eastern-and-southern-counties-on-tuesday-27th-january-2026/
+2 Met Éireann, ‘The aftermath of Storm Chandra: Ground conditions, uncertainties, predicted rainfall and
+flooding possibilities’. Accessed: Feb. 11, 2026. [Online]. Available: https://www.met.ie/ga/
+meteorologists-commentary/the-aftermath-of-storm-chandra-ground-conditions-uncertainties-
+predicted-rainfall-and-flooding-possibilities
+3 Met Éireann, ‘Climate statement for January 2026’. Accessed: Feb. 11, 2026. [Online]. A vailable:
+https://www.met.ie/climate-statement-for-january-2026
+4 The Journal, ‘“Five feet of water”: Wexford businesses swamped as Storm Chandra leaves trail of
+destruction’. Accessed: Feb. 11, 2026. [Online]. Available: https://www.thejournal.ie/enniscorthy-
+flooding-6940676-Jan2026/
+5 RTÉ, ‘Family with newborn rescued after Enniscorthy flooding’. Accessed: Feb. 11, 2026. [Online].
+Available: https://www.rte.ie/news/leinster/2026/0127/1555407-enniscorthy-wexford-flooding-storm-
+chandra/
+6 Office of Public Works and Wexford County Council, ‘Enniscorthy Flood Relief Scheme’. Accessed:
+Feb. 11, 2026. [Online]. Available: https://enniscorthyfrs.ie/
+7 The Journal, ‘“Major event” on M50 and other travel disrupted by flooding from Storm Chandra’.
+Accessed: Feb. 11, 2026. [Online]. Available: https://www.thejournal.ie/major-event-on-m50-and-other-
+travel-disrupted-by-flooding-from-storm-chandra-6939291-Jan2026/
+8 The Irish Times, ‘Residents left 10 days without full water supply in aftermath of Storm Chandra’.
+Accessed: Feb. 11, 2026. [Online]. Available: https://www.irishtimes.com/ireland/2026/02/06/
+residents-left-10-days-without-full-water-supply-in-aftermath-of-storm-chandra/
+9 WASITUS.ie , ‘Climate change increases flood risk associated with winter rainfall on east coast of
+Ireland’. Accessed: Feb. 11, 2026. [Online]. Available: https://wasitus.ie/chandra-news/
+10 Met Éireann, ‘Annual climate statement for 2025’. Accessed: Feb. 11, 2026. [Online]. Available:
+https://www.met.ie/annual-climate-statement-for-2025
+11 Met Éireann, ‘Past weather statements: Weather statement for January 2026’. Accessed: Feb. 09, 2026.
+[Online]. Available: https://www.met.ie/climate/past-weather-statements
+12 Climate Change Advisory Council, ‘Council publications’. Accessed: Feb. 11, 2026. [Online]. A vailable:
+https://www.climatecouncil.ie/councilpublications/
+13 Met Éireann, ‘Provisionally warmest summer on record for Ireland’. Accessed: Feb. 09, 2026. [Online].
+Available: https://www.met.ie/provisionally-warmest-summer-on-record-for-ireland
+14 WASITUS.ie , ‘Increasing global temperatures transformed an otherwise average Irish summer into a
+record breaking warm summer’, 2025. Accessed: Feb. 09, 2026. [Online]. Available: https://wasitus.ie/
+events/increasing-global-temperatures-transformed-an-otherwise-average-
+irish-summer-into-a-record-breaking-warm-summer/
+15 ESB Networks, ‘Update from ESB Networks on power restoration’. Accessed: Feb. 11, 2026. [Online].
+Available: https://esb.ie/news---insights/press-releases/article/2025/02/11/update-from-esb-networks-
+on-power-restoration
+
+Climate Change Advisory Council Annual Review 202620
+Our Changing Climate in 2025 16 Uisce Éireann, ‘Water supply returned to additional 55,000 people since yesterday’. Accessed:
+Feb. 11, 2026. [Online]. Available: https://www.water.ie/news/water-supply-returned-additional-55000-people-
+yesterday
+17 Insurance Ireland, ‘Storm Éowyn becomes costliest weather event in Irish insurance history’. Accessed:
+Feb. 11, 2026. [Online]. Available: https://insuranceireland.eu/news-and-publications/news-press-
+release/storm-owyn-becomes-costliest-weather-event-in-irish-insurance-history/
+18 Aon, ‘2026 Climate and Catastrophe Insight’, 2026. Accessed: Mar. 04, 2026. [Online]. Available:
+https://www.aon.com/en/insights/reports/climate-and-catastrophe-report
+19 Dublin Port, ‘Dublin Port commences €2.5 million investment to protect critical Great South Wall’.
+Accessed: Mar. 04, 2026. [Online]. Available: https://www.dublinport.ie/dublin-port-commences-e2-
+5million-investment-to-protect-critical-great-south-wall/
+20 European Insurance and Occupational Pensions Authority, ‘Dashboard on insurance protection gap for
+natural catastrophes’. Accessed: Feb. 11, 2026. [Online]. Available: https://www.eiopa.europa.eu/tools-
+and-data/dashboard-insurance-protection-gap-natural-catastrophes_en
+21 Central Bank of Ireland and Climate Change Advisory Council, ‘Funding Climate Adaptation in Ireland’,
+2025. Accessed: Feb. 25, 2026. [Online]. Available: https://www.centralbank.ie/docs/default-source/
+publications/climate-change/funding-climate-adaptation-in-ireland.pdf?sfvrsn=a71b6f1a_4
+22 Department of Housing, Local Government and Heritage, ‘Review of Storm Éowyn’, 2025. Accessed: Feb.
+09, 2026. [Online]. Available: https://assets.gov.ie/static/documents/a4d6b12a/Review_of_Storm_
+%C3%89owyn_161025_2.pdf
+23 Uisce Éireann, ‘Uisce Éireann thanks the public for their suppor t and urges continued water
+conservation’. Accessed: Feb. 11, 2026. [Online]. Available: https://www.water.ie/news/uisce-eireann-
+thanks-public-their-support-and-urges-continued-water-conservation
+24 RTÉ, ‘Why Ireland is experiencing a “marine heatwave” right now’. Accessed: Feb. 09, 2026. [Online].
+Available: https://www.rte.ie/brainstorm/2025/0523/1514557-marine-heatwave-ireland-explained-
+climate-change-met-eireann/
+25 Mercator Ocean International, ‘Marine heatwave bulletin: Forecasts for 23 August 2025’. Accessed:
+Feb. 12, 2026. [Online]. Available: https://www.mercator-ocean.eu/bulletin/marine-heatwave-forecast-
+23-august-2025-2/
+26 Environmental Protection Agency, ‘National Climate Change Risk Assessment: Main Report’, Jun. 2025.
+Accessed: Feb. 09, 2026. [Online]. Available: https://www.climateireland.ie/media/epa-2020/monitoring-
+amp-assessment/climate-change/climate-ireland/EPA_NCCRA_Main-Report_Published_June_2025.pdf
+27 Department of Agriculture, Food and the Marine, ‘Independent review of ash dieback response
+published’. Accessed: Feb. 09, 2026. [Online]. Available: https://www.gov.ie/en/department-of-
+agriculture-food-and-the-marine/press-releases/independent-review-of-ash-dieback-response-
+published/
+28 M. A. Lane et al. , ‘Climate change and influenza: A scoping review’, The Journal of Climate Change and
+Health , vol. 5, 100084, Feb. 2022, https://doi.org/10.1016/j.joclim.2021.100084
+29 N. Boodhoo and S. Sharif, ‘Climate change is helping the H5N1 bird flu virus spread and e volve: Opinion’.
+Accessed: Feb. 09, 2026. [Online]. Available: https://news.uoguelph.ca/2024/06/
+commentary-climate-change-is-helping-the-h5n1-bird-flu-virus-spread-and-e volve/
+30 Department of Agriculture, Food and the Marine, ‘National Farmed Animal Biosecurity Strategy (2025–
+2030)’, Dec. 2025. Accessed: Feb. 09, 2026. [Online]. Available: https://assets.gov.ie/static/documents/
+413f54d1/Second_National_Farmed_Animal_Biosecurity_Strategy_final.pdf
+
+Climate Change Advisory Council Annual Review 202621
+Our Changing Climate in 2025 31 Department of Agriculture, Food and the Marine, ‘Avian influenza (bird flu)’. Accessed: Feb. 09,
+2026. [Online]. Available: https://www.gov.ie/en/department-of-agriculture-food-and-the-
+marine/publications/avian-influenza-bird-flu/
+32 Department of Agriculture, Food and the Marine, ‘NDCC avian influenza update 1 of 2026’. Accessed:
+Feb. 09, 2026. [Online]. Available: https://assets.gov.ie/static/documents/936ab577/Avian_Influenza_
+Update_No_1_of_2026_09.01.2026.pdf
+33 Invasives.ie , ‘Asian hornet (aka ’yellow-legged hornet’)’. Accessed: Feb. 09, 2026. [Online]. Available:
+https://invasives.ie/species-alerts/asian-hornet/
+34 Government of Ireland, ‘Water Quality and Water Services Infrastructure: Sectoral Adaptation Plan’, 2025.
+Accessed: Feb. 09, 2026. [Online]. Available: https://assets.gov.ie/static/documents/ef345b1c/
+Annex_8_-_Water_Services_and_Water_Quality.pdf
+35 P . Taylor et al. , ‘Investigating the Likelihood of a Lough Neagh Bloom Scenario Happening in the Republic
+of Ireland’, Jun. 2025. Accessed: Feb. 09, 2026. [Online]. Available: https://www.epa.ie/publications/
+research/evidence-synthesis-reports/Evidence-Synthesis-Report_-7.pdf
+36 Firefighter Magazine, ‘UK breaks wildfire records as hot, dry weather hits unusually early in the year ’.
+Accessed: Feb. 11, 2026. [Online]. Available: https://www.fbu.org.uk/magazine/junejuly-2025/uk-breaks-
+wildfire-records-hot-dry-weather-hits-unusually-early-year
+37 Copernicus, ‘Seasonal trend for European Union’. Accessed: Feb. 11, 2026. [Online]. Available:
+https://forest-fire.emergency.copernicus.eu/apps/effis.statistics/seasonaltrend
+38 Department of Agriculture, Food and the Marine, ‘Red warning issued for forest fire danger’. Accessed:
+Feb. 09, 2026. [Online]. Available: https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/
+press-releases/red-warning-issued-for-forest-fire-danger/
+39 Diverse Daily, ‘Understanding phenology shifts: How climate change influences seasonal biological
+events’. Accessed: Feb. 09, 2026. [Online]. Available: https://diversedaily.com/understanding-phenology-
+shifts-how-climate-change-influences-seasonal-biological-events/
+40 C. Murphy, L. Heaphy, T. Quinn, E. O’Brien and P . Nolan, ‘Ireland’s Climate Change Assessment Volume 3:
+Being Prepared for Ireland’s Future Climate’, 2023. Accessed: Apr. 19, 2024. [Online]. Available:
+https://www.epa.ie/publications/monitoring--assessment/climate-change/irelands-climate-change-
+assessment-volume-3.php
+41 A. Wingler et al. , ‘PhenoClimate: Impact of climate change on phenology in Ireland’, Mar . 2022. Accessed:
+Feb. 11, 2026. [Online]. Available: https://www.epa.ie/publications/research/climate-change/Research_
+Report_404.pdf
+42 WASITUS.ie , ‘Human-caused climate change increases potential flood risk in south-eastern Ireland as
+rainfall intensifies’. Accessed: Feb. 09, 2026. [Online]. Available: https://wasitus.ie/
+new-study-finds-human-caused-climate-change-increases-potential-flood-risk-in-south-eastern-ireland-
+as-rainfall-intensifies/
+43 European Centre for Medium-Range Weather Forecasts, ‘2025 Global Climate Highlights’, Jan. 2026.
+Accessed: Feb. 11, 2026. [Online]. Available: https://climate.copernicus.eu/sites/default/files/custom-
+uploads/GCH-2025/GCH2025-full-report.pdf
+44 World Meteorological Organization, ‘State of the Global Climate 2025’, 2026. Accessed: Mar. 23, 2026.
+[Online]. Available: https://wmo.int/publication-series/state-of-global-climate/
+state-of-global-climate-2025
+45 European Commission: Joint Research Centre, ‘Current wildfire situation in Europe’. Accessed: Feb. 09,
+2026. [Online]. Available: https://joint-research-centre.ec.europa.eu/projects-and-activities/natural-and-
+man-made-hazards/forest-fires/current-wildfire-situation-europe_en
+
+Climate Change Advisory Council Annual Review 202622
+Our Changing Climate in 2025 46 World Weather Attribution, ‘Extreme fire weather conditions in Spain and Portugal now
+common due to climate change’. Accessed: Feb. 09, 2026. [Online]. Available: https://www.
+worldweatherattribution.org/
+extreme-fire-weather-conditions-in-spain-and-portugal-now-common-due-to-climate-change/
+47 World Meteorological Organization, ‘WMO confirms 2025 was one of warmest years on record’.
+Accessed: Feb. 09, 2026. [Online]. Available: https://wmo.int/news/media-centre/wmo-confirms-2025-
+was-one-of-warmest-years-record
+48 Y. Pan et al. , ‘Ocean heat content sets another record in 2025’, Advances in Atmospheric Sciences , vol. 13,
+pp. 1–23, Jan. 2026, https://doi.org/10.1007/s00376-026-5876-0
+49 Met Office, ‘Climate dashboard – Ocean heat content’. Accessed: Feb. 12, 2026. [Online]. A vailable:
+https://climate.metoffice.cloud/ocean_heat.html
+50 World Weather Attribution, ‘Unequal evidence and impacts, limits to adaptation: Extreme weather in
+2025’. Accessed: Feb. 11, 2026. [Online]. Available: https://www.worldweatherattribution.org/unequal-
+evidence-and-impacts-limits-to-adaptation-extreme-weather-in-2025/
+51 J. Ware and O. Pearce, ‘Counting the Cost 2025 – A Year of Climate Breakdown’, Dec. 2025. Accessed:
+Feb. 09, 2026. [Online]. Available: https://www.christianaid.org.uk/sites/default/files/2025-12/counting-
+the-cost-2025-pdf-2.pdf
+52 World Weather Attribution, ‘Climate change increased the likelihood of wildfire disaster in highly exposed
+Los Angeles area’. Accessed: Feb. 09, 2026. [Online]. Available: https://www.worldweatherattribution.org/
+climate-change-increased-the-likelihood-of-wildfire-disaster-in-highly-exposed-los-angeles-area/
+53 World Weather Attribution, ‘Climate change enhanced intensity of Hurricane Melissa, testing limits of
+adaptation in Jamaica and eastern Cuba’. Accessed: Feb. 09, 2026. [Online]. Available:
+https://www.worldweatherattribution.org/climate-change-enhanced-intensity-of-hurricane-melissa-
+testing-limits-of-adaptation-in-jamaica-and-eastern-cuba/
+54 World Weather Attribution, ‘Human-induced climate change compounded by socio-economic water
+stressors increased severity of drought in Syria, Iraq and Iran’. Accessed: Feb. 09, 2026. [Online].
+Available: https://www.worldweatherattribution.org/human-induced-climate-change-compounded-by-
+socio-economic-water-stressors-increased-severity-of-drought-in-syria-iraq-and-iran/
+55 World Weather Attribution, ‘Human-induced climate change compounded by socio-economic water
+stressors increased severity of 5-year drought in Iran and Euphrates and Tigris basin’. Accessed: Feb. 09,
+2026. [Online]. Available: https://www.worldweatherattribution.org/human-induced-climate-change-
+compounded-by-socio-economic-water-stressors-increased-severity-of-5-year-drought-in-iran-and-
+euphrates-and-tigris-basin/
+56 Government of Ireland, ‘Sectoral adaptation planning’. Accessed: Feb. 11, 2026. [Online]. Available:
+https://www.gov.ie/en/department-of-climate-energy-and-the-environment/campaigns/
+sectoral-adaptation-planning/
+57 Met Éireann, ‘National Framework for Climate Services’. Accessed: Feb. 11, 2026. [Online]. Available:
+https://www.met.ie/nfcs
+58 M. Kelly-Quinn, A. Yohannes Battamo, E. Eichelmann, J. O’sullivan and M. Salauddin, ‘The Impact of
+Extreme Weather Events on Ecosystems – Scoping Study (Extremes)’, Nov. 2025. Accessed: Feb. 09,
+2026. [Online]. Available: https://www.epa.ie/publications/research/biodiversity/Research-Report_501.
+pdf
+59 Climate Ireland, ‘Home page’. Accessed: Feb. 11, 2026. [Online]. Available: https://www.climateireland.ie/
+
+Climate Change Advisory Council Annual Review 202623
+Our Changing Climate in 2025 60 Department of the Environment, Climate and Communications, ‘National Adaptation
+Framework (NAF)’. Accessed: Jun. 07, 2024. [Online]. Available: https://www.gov.ie/en/
+publication/fbe331-national-
+adaptation-framework/
+61 P . Ryan et al. , ‘TRANSLATE Research Report’, Apr. 2024. Accessed: Feb. 11, 2026. [Online]. Available:
+https://www.met.ie/cms/assets/uploads/2024/06/Met-Eireann-TRANSLATE-Research-Report.pdf
+62 G. Asrar, ‘WCRP modelling strategy developments’, CLIVAR Exchanges , vol. 56, no. 2, May 2011,
+Accessed: Feb. 11, 2026. [Online]. Available: https://www.clivar.org/sites/default/files/documents/
+Exchanges56.pdf
+63 D. Jacob et al. , ‘EURO-CORDEX: New high-resolution climate change projections for European impact
+research’, Regional Environmental Change , vol. 14, no. 2, pp. 563–578, Jul. 2013, https://doi.org/10.1007/
+s10113-013-0499-2
+64 P . Nolan and J. Flanagan, ‘High-resolution Climate Projections for Ireland – A Multi-model Ensemble
+Approach’, Sep. 2020. Accessed: Feb. 09, 2026. [Online]. Available: https://www.epa.ie/publications/
+research/climate-change/research-339-high-resolution-climate-projections-for-ireland--a-multi-model-
+ensemble-approach.php
+65 Met Éireann, ‘TRANSLATE2’. Accessed: Feb. 11, 2026. [Online]. Available: https://www.met.ie/translate2
+66 V. Eyring et al. , ‘Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6) experimental
+design and organisation’, Geoscientific Model Development , vol. 9, no. 5, pp. 1937–1958, May 2016,
+https://doi.org/10.5194/gmd-9-1937-2016
+67 K. Calvin et al. , ‘AR6 Synthesis Report – Climate Change 2023’, 2023. https://doi.org/10.59327/IPCC/
+AR6-9789291691647
+68 P . Nolan and A. Mckinstry, ‘EC-Earth Global Climate Simulations – Ireland’s Contributions to CMIP6’, Mar.
+2020. Accessed: Feb. 09, 2026. [Online]. Available: https://www.epa.ie/publications/research/
+environmental-technologies/Research_Report_310_part1-(1).pdf
+69 Coupled Model Intercomparison Project, ‘CMIP Phase 7 (CMIP7)’. Accessed: Feb. 11, 2026. [Online].
+Available: https://wcrp-cmip.org/cmip-phases/cmip7/
+70 Met Éireann, ‘Met Éireann launches new advanced weather radar system at Shannon Airport’. Accessed:
+Feb. 11, 2026. [Online]. Available: https://www.met.ie/met-eireann-launches-new-advanced-weather-
+radar-system-at-shannon-airport
+71 Met Éireann, ‘WREN project’. Accessed: Feb. 09, 2026. [Online]. Available: https://www.met.ie/wren-
+project
+72 E. Daly et al. , ‘The Irish Soil Moisture Observation Network – ISMON’, Paper presented at the Irish
+National Hydrology Conference 2021, Athlone, 2021. Accessed: Feb. 11, 2026. [Online]. Available: https://
+agmet.ie/wp-content/uploads/2023/01/09-E.-Daly-et-al.pdf
+73 Copernicus Marine Service In Situ TAC, ‘Reinforcing coastal monitoring in Ireland: Met Éireann and
+Commissioners of Irish Lights buoy network available in Marine Data Store’. Accessed: Feb. 11, 2026.
+[Online]. Available: https://marineinsitu.eu/reinforcing-coastal-monitoring-in-ireland-met-eireann-and-
+commissioners-of-irish-lights-buoy-network-available-in-marine-data-store/
+74 C. Murphy, S. Harrigan, J. Hall and R. Wilby, ‘HYDRODETECT – The Identification and Assessment of
+Climate Change Indicators for an Irish Reference Network of River Flow Stations’, 2013. Accessed: Feb.
+11, 2026. [Online]. Available: https://www.epa.ie/publications/research/climate-change/CCRP_27_
+HydroDetect.pdf
+
+Climate Change Advisory Council Annual Review 202624
+Our Changing Climate in 2025 75 Maynooth University, ‘HydroDARE: Detection and attribution of change in hydrological series’.
+Accessed: Feb. 11, 2026. [Online]. Available: https://www.maynoothuniversity.ie/icarus/
+active-research-grants/hydrodare-detection-and-attribution-change-hydrological-series
+76 Climate Change Advisory Council, ‘Annual Review 2025 – Our Changing Climate in 2024’, Mar. 2025.
+Accessed: Feb. 11, 2026. [Online]. Available: https://www.climatecouncil.ie/councilpublications/
+annualreviewandreport/CCAC%20AR25%20Our%20Changing%20Climate-final.pdf
+77 D. L. Volkov et al. , ‘Florida Current transport observations reveal four decades of steady state’, Nature
+Communications , vol. 15, no. 1, 7780, Sep. 2024, https://doi.org/10.1038/s41467-024-51879-5
+78 G. D. McCarthy, G. Hug, D. Smeed, K. J. Morris and B. Moat, ‘Signal and noise in the Atlantic Meridional
+Overturning Circulation at 26°N’, Geophysical Research Letters , vol. 52, no. 7, e2025GL115055, Apr. 2025,
+https://doi.org/10.1029/2025GL115055
+79 R. M. van Westen, E. Vanderborght, M. Kliphuis and H. A. Dijkstra, ‘Physics-based indicators for the onset
+of an AMOC collapse under climate change’, Journal of Geophysical Research: Oceans , vol. 130, no. 8,
+e2025JC022651, Aug. 2025, https://doi.org/10.1029/2025JC022651
+80 S. Drijfhout, J. R. Angevaare, J. Mecking, R. M. van Westen and S. Rahmstorf, ‘Shutdown of northern
+Atlantic overturning after 2100 following deep mixing collapse in CMIP6 projections’, Environmental
+Research Letters , vol. 20, no. 9, 094062, Aug. 2025, https://doi.org/10.1088/1748-9326/adfa3b
+81 W. Weijer, W. Cheng, O. A. Garuba, A. Hu and B. T. Nadiga, ‘CMIP6 models predict significant 21st century
+decline of the Atlantic Meridional Overturning Circulation’, Geophysical Research Letters , vol. 47, no. 12,
+e2019GL086075, Jun. 2020, https://doi.org/10.1029/2019GL086075
+82 K. Bellomo et al. , ‘Impacts of a weakened AMOC on precipitation over the Euro-Atlantic region in the
+EC-Earth3 climate model’, Climate Dynamics , vol. 61, no. 7, pp. 3397–3416, Mar. 2023, https://doi.org/
+10.1007/s00382-023-06754-2
+83 L. C. Jackson et al. , ‘Global and European climate impacts of a slowdown of the AMOC in a high
+resolution GCM’, Climate Dynamics , vol. 45, no. 11, pp. 3299–3316, Mar. 2015, https://doi.org/10.1007/
+s00382-015-2540-2
+84 R. M. Van Westen, K. Van Der Wiel, S. K. J. Falkena and F. Selten, ‘Changing European hydroclimate under
+a collapsed AMOC in the Community Earth System Model’, Hydrology and Earth System Sciences , vol.
+29, no. 22, pp. 6607–6630, Nov. 2025, https://doi.org/10.5194/hess-29-6607-2025

@@ -1,0 +1,203 @@
+# Ireland's Climate Action Plan and Policy Framework
+
+## Overview
+
+Ireland's Climate Action Plan is the government's roadmap for taking decisive action to halve greenhouse gas emissions by 2030 and reach net zero no later than 2050. The plan was first published in 2019 and has been updated annually, with the most recent version being the Climate Action Plan 2024 (CAP24).
+
+## Legal Framework
+
+### Climate Action and Low Carbon Development (Amendment) Act 2021
+
+The Climate Action and Low Carbon Development (Amendment) Act 2021 is the cornerstone of Ireland's climate legislation. Key provisions include:
+
+- **Net-zero target**: Ireland must achieve climate neutrality by 2050 at the latest
+- **51% emissions reduction target**: A legally binding target to reduce greenhouse gas emissions by 51% by 2030 (relative to 2018 levels)
+- **Carbon budgets**: The government must set legally binding carbon budgets for successive 5-year periods
+- **Sectoral emissions ceilings**: Each sector of the economy is assigned specific emissions reduction targets
+- **Annual Climate Action Plans**: The government must publish annual updates to the Climate Action Plan
+- **Climate Change Advisory Council (CCAC)**: An independent advisory body that assesses Ireland's progress toward its climate targets
+
+### Carbon Budgets
+
+Ireland's carbon budgets have been established as follows:
+
+- **First Carbon Budget (2021-2025)**: 295 Mt CO2 eq (megatonnes of carbon dioxide equivalent)
+- **Second Carbon Budget (2026-2030)**: 200 Mt CO2 eq
+- **Provisional Third Carbon Budget (2031-2035)**: 151 Mt CO2 eq
+
+These budgets represent a total allowable emissions of 646 Mt CO2 eq from 2021 to 2035.
+
+## Sectoral Emissions Ceilings
+
+The government has established sectoral emissions ceilings for 2030:
+
+| Sector | Current Emissions (2018, Mt CO2 eq) | 2030 Ceiling (Mt CO2 eq) | Required Reduction |
+|--------|--------------------------------------|--------------------------|-------------------|
+| Electricity | 10.4 | 3.0 | 75% |
+| Transport | 12.2 | 6.0 | 50% |
+| Buildings (Residential & Commercial) | 9.3 | 4.0 | 40-45% |
+| Industry | 7.0 | 4.0 | 35% |
+| Agriculture | 23.0 | 17.25 | 25% |
+| Land Use, Land Use Change & Forestry (LULUCF) | 4.8 | Target to be carbon neutral by 2050 | N/A |
+
+## Key Policy Measures
+
+### Electricity Sector
+
+Ireland aims to generate 80% of its electricity from renewable sources by 2030. Key measures include:
+
+- **Offshore wind**: Target of 5 GW of offshore wind energy by 2030, with a longer-term ambition of at least 37 GW by 2050
+- **Onshore wind**: Continued expansion of onshore wind capacity
+- **Solar**: Target of 5.5 GW of solar PV by 2030
+- **Battery storage**: Development of grid-scale battery storage systems
+- **Interconnection**: New electricity interconnectors with the UK and continental Europe
+- **Phase out of fossil fuels**: No new connections of gas-fired electricity generation after 2030
+- **Microgeneration**: Support scheme for homes and businesses to generate their own renewable electricity
+
+### Transport Sector
+
+The transport sector must reduce emissions by 50% by 2030. Key measures include:
+
+- **Electric vehicles (EVs)**: Target of 945,000 electric vehicles on the road by 2030
+- **EV charging infrastructure**: Rollout of a comprehensive charging network across the country
+- **Public transport**: Investment in BusConnects, MetroLink, and DART+ expansion projects
+- **Active travel**: Increased investment in cycling and walking infrastructure
+- **Biofuels**: Increase the biofuel obligation to reduce transport fuel emissions
+- **Remote working**: Promotion of remote and hybrid working to reduce commuter travel
+- **Haulage**: Support for the transition to zero-emission heavy goods vehicles
+
+### Buildings Sector
+
+The built environment must reduce emissions by 40-45% by 2030. Key measures include:
+
+- **Retrofitting**: Target of 500,000 home retrofits to BER B2 or equivalent by 2030
+- **Heat pumps**: Installation of 680,000 heat pumps in residential buildings by 2030
+- **District heating**: Development of district heating networks in urban areas
+- **Building standards**: Strengthening of building regulations to ensure all new buildings are Nearly Zero Energy Buildings (NZEB)
+- **Ban on fossil fuel heating**: No new fossil fuel boilers after 2025 in new dwellings
+- **Energy efficiency**: Programs like the Warmer Homes Scheme and the Better Energy Homes grant
+
+### Agriculture Sector
+
+Agriculture faces a 25% reduction target, reflecting the sector's unique challenges:
+
+- **Methane reduction**: Reducing methane emissions from livestock through feed additives and breeding programs
+- **Fertiliser efficiency**: Reducing chemical nitrogen fertiliser use by 20-25%
+- **Organic farming**: Increasing organic farming area to 7.5% of utilized agricultural area by 2030
+- **Forestry**: Annual afforestation of 8,000 hectares
+- **Biomethane**: Development of biomethane production from agricultural waste
+- **Carbon farming**: Incentivizing carbon sequestration through improved land management practices
+
+### Industry Sector
+
+Industry must reduce emissions by 35% by 2030:
+
+- **Carbon capture and storage**: Support for CCS technology in heavy industry
+- **Industrial electrification**: Transitioning from fossil fuel heating to electric processes
+- **Circular economy**: Reducing waste and promoting material reuse
+- **Green hydrogen**: Development of green hydrogen production and use in industrial processes
+
+## Carbon Tax
+
+Ireland's carbon tax has been progressively increasing:
+
+- 2020: €26 per tonne of CO2
+- 2021: €33.50 per tonne
+- 2022: €41 per tonne
+- 2023: €48.50 per tonne
+- 2024: €56 per tonne
+- 2025: €63.50 per tonne (projected)
+- 2030: €100 per tonne (target)
+
+Revenue from carbon tax is ringfenced for climate action measures, including:
+- Social welfare increases to protect vulnerable households
+- Residential retrofit programs
+- Agricultural support schemes
+- Active travel and greenway infrastructure
+
+## Ireland's Greenhouse Gas Emissions Profile
+
+### Emissions by Sector (2022)
+
+Ireland's total greenhouse gas emissions in 2022 were approximately 60.76 Mt CO2 eq. The breakdown by sector:
+
+- **Agriculture**: 37.5% (22.8 Mt CO2 eq) - highest in the EU proportionally
+- **Transport**: 18.5% (11.2 Mt CO2 eq)
+- **Energy Industries**: 14.6% (8.9 Mt CO2 eq)
+- **Residential**: 10.7% (6.5 Mt CO2 eq)
+- **Manufacturing/Combustion**: 8.1% (4.9 Mt CO2 eq)
+- **Industrial Processes**: 4.1% (2.5 Mt CO2 eq)
+- **F-gases**: 2.1% (1.3 Mt CO2 eq)
+- **Waste**: 1.6% (1.0 Mt CO2 eq)
+- **Commercial Services**: 1.5% (0.9 Mt CO2 eq)
+- **Public Services**: 1.2% (0.7 Mt CO2 eq)
+
+### Key Trends
+
+- Ireland's emissions declined by 6.8% in 2023 compared to 2022
+- Agriculture remains Ireland's largest source of emissions
+- Transport emissions remain well above 1990 levels
+- Electricity sector has seen significant decarbonization due to wind energy
+- Ireland's per capita emissions are among the highest in the EU
+
+## Climate Change Advisory Council (CCAC)
+
+The Climate Change Advisory Council is an independent body tasked with:
+
+- Assessing Ireland's progress toward its climate targets
+- Providing recommendations on carbon budgets
+- Publishing annual review reports
+- Advising on sectoral emissions ceilings
+
+### Key Findings from CCAC Annual Review 2024
+
+- Ireland is not on track to meet its 2030 targets
+- The pace of emissions reductions needs to accelerate significantly
+- Agriculture sector reforms are essential but politically challenging
+- Renewable energy deployment is progressing but faces planning delays
+- Transport decarbonization requires faster EV adoption and modal shift
+- Building retrofitting rates must more than double to meet targets
+
+## EU Context
+
+Ireland's climate targets operate within the broader EU framework:
+
+- **European Green Deal**: EU target to be climate neutral by 2050
+- **Fit for 55 Package**: EU-wide target to reduce emissions by at least 55% by 2030
+- **Effort Sharing Regulation**: Ireland must reduce non-ETS emissions by 42% by 2030 (vs 2005)
+- **EU Emissions Trading System (ETS)**: Covers large industrial installations and power generation
+- **Common Agricultural Policy (CAP)**: Increasingly linked to environmental conditionality
+
+## SEAI and Renewable Energy Statistics
+
+The Sustainable Energy Authority of Ireland (SEAI) reports the following key statistics:
+
+### Energy Supply
+- Ireland's energy import dependency: approximately 70%
+- Renewable energy share of total primary energy: approximately 13%
+- Renewable electricity share: approximately 39% (2023)
+- Wind energy provides the majority of renewable electricity
+
+### Renewable Energy Targets
+- 80% renewable electricity by 2030
+- 15-20% renewable heat by 2030
+- 20% biofuel blend rate by 2030
+
+### Wind Energy
+- Installed wind capacity: approximately 5.6 GW (2024)
+- Wind generated approximately 36% of all electricity in 2023
+- Ireland has some of the best wind resources in Europe
+- Offshore wind development is a key priority
+
+## Challenges and Criticisms
+
+Ireland faces several key challenges in meeting its climate targets:
+
+1. **Agricultural emissions**: The large agricultural sector makes deep cuts difficult
+2. **Planning delays**: Renewable energy projects face lengthy planning processes
+3. **Data center growth**: Rapid growth in data centers driving up electricity demand
+4. **Transport dependency**: High car dependency in rural areas
+5. **Retrofit costs**: High upfront costs of home energy improvements
+6. **Just transition**: Ensuring no communities are left behind
+7. **Biodiversity**: Balancing climate action with biodiversity protection
+8. **Political will**: Implementing unpopular but necessary measures

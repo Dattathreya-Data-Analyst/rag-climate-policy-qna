@@ -1,0 +1,308 @@
+[
+  {
+    "question": "What is Ireland's 2030 greenhouse gas emissions reduction target?",
+    "answer": "Ireland has a legally binding target to reduce greenhouse gas emissions by 51% by 2030 relative to 2018 levels, as established by the Climate Action and Low Carbon Development (Amendment) Act 2021.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "targets"
+  },
+  {
+    "question": "When must Ireland achieve climate neutrality?",
+    "answer": "Ireland must achieve climate neutrality by 2050 at the latest, as mandated by the Climate Action and Low Carbon Development (Amendment) Act 2021.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "targets"
+  },
+  {
+    "question": "What are Ireland's three carbon budgets and their allocations?",
+    "answer": "Ireland's carbon budgets are: First Carbon Budget (2021-2025) at 295 Mt CO2 eq, Second Carbon Budget (2026-2030) at 200 Mt CO2 eq, and Provisional Third Carbon Budget (2031-2035) at 151 Mt CO2 eq, totaling 646 Mt CO2 eq from 2021 to 2035.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "carbon_budgets"
+  },
+  {
+    "question": "What percentage of electricity does Ireland aim to generate from renewable sources by 2030?",
+    "answer": "Ireland aims to generate 80% of its electricity from renewable sources by 2030.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "electricity"
+  },
+  {
+    "question": "What is Ireland's offshore wind energy target for 2030?",
+    "answer": "Ireland has a target of 5 GW of offshore wind energy by 2030, with a longer-term ambition of at least 37 GW by 2050.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "electricity"
+  },
+  {
+    "question": "How many electric vehicles does Ireland target by 2030?",
+    "answer": "Ireland targets 945,000 electric vehicles on the road by 2030.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "transport"
+  },
+  {
+    "question": "What is the transport sector's required emissions reduction by 2030?",
+    "answer": "The transport sector must reduce emissions by 50% by 2030, from 12.2 Mt CO2 eq in 2018 to 6.0 Mt CO2 eq.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "transport"
+  },
+  {
+    "question": "How many home retrofits is Ireland targeting by 2030?",
+    "answer": "Ireland is targeting 500,000 home retrofits to BER B2 or equivalent by 2030.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "buildings"
+  },
+  {
+    "question": "How many heat pumps does Ireland plan to install by 2030?",
+    "answer": "Ireland plans to install 680,000 heat pumps in residential buildings by 2030.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "buildings"
+  },
+  {
+    "question": "What is the emissions reduction target for the agriculture sector?",
+    "answer": "The agriculture sector has a 25% emissions reduction target, requiring a reduction from 23.0 Mt CO2 eq in 2018 to 17.25 Mt CO2 eq by 2030.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "agriculture"
+  },
+  {
+    "question": "What is the current carbon tax rate in Ireland and what is the 2030 target?",
+    "answer": "The carbon tax in Ireland was €56 per tonne of CO2 in 2024, with a target of reaching €100 per tonne by 2030. It has been progressively increasing from €26 in 2020.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "carbon_tax"
+  },
+  {
+    "question": "What is the largest source of greenhouse gas emissions in Ireland?",
+    "answer": "Agriculture is the largest source of greenhouse gas emissions in Ireland, accounting for 37.5% of total emissions (22.8 Mt CO2 eq in 2022), which is the highest proportionally in the EU.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "emissions"
+  },
+  {
+    "question": "What was Ireland's total greenhouse gas emissions in 2022?",
+    "answer": "Ireland's total greenhouse gas emissions in 2022 were approximately 60.76 Mt CO2 eq.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "emissions"
+  },
+  {
+    "question": "What role does the Climate Change Advisory Council play?",
+    "answer": "The Climate Change Advisory Council (CCAC) is an independent body tasked with assessing Ireland's progress toward its climate targets, providing recommendations on carbon budgets, publishing annual review reports, and advising on sectoral emissions ceilings.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "governance"
+  },
+  {
+    "question": "Is Ireland on track to meet its 2030 climate targets according to the CCAC?",
+    "answer": "According to the CCAC Annual Review 2024, Ireland is not on track to meet its 2030 targets. The pace of emissions reductions needs to accelerate significantly, with particular challenges in agriculture, transport, and building retrofitting.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "governance"
+  },
+  {
+    "question": "What is the emissions reduction requirement for the electricity sector?",
+    "answer": "The electricity sector must reduce emissions by 75%, from 10.4 Mt CO2 eq in 2018 to 3.0 Mt CO2 eq by 2030.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "electricity"
+  },
+  {
+    "question": "What is the Paris Agreement and what are its key temperature goals?",
+    "answer": "The Paris Agreement is an international treaty on climate change adopted in 2015. Its central aim is to hold the increase in global average temperature to well below 2°C above pre-industrial levels and to pursue efforts to limit the temperature increase to 1.5°C above pre-industrial levels.",
+    "source": "paris_agreement.txt",
+    "category": "international"
+  },
+  {
+    "question": "What is the European Green Deal?",
+    "answer": "The European Green Deal is a set of EU policy initiatives with the overarching aim of making Europe the first climate-neutral continent by 2050. It includes proposals for revised climate, energy, transport, and taxation policies to reduce net greenhouse gas emissions by at least 55% by 2030 compared to 1990 levels.",
+    "source": "european_green_deal.txt",
+    "category": "eu_policy"
+  },
+  {
+    "question": "What is emissions trading and how does it work?",
+    "answer": "Emissions trading is a market-based approach to controlling pollution by providing economic incentives for reducing emissions. It works through a cap-and-trade system where a central authority sets a limit (cap) on total emissions, issues emission permits, and allows companies to trade these permits. Companies that can reduce emissions cheaply can sell surplus permits to those facing higher costs.",
+    "source": "emissions_trading.txt",
+    "category": "mechanisms"
+  },
+  {
+    "question": "What is Ireland's energy import dependency?",
+    "answer": "Ireland's energy import dependency is approximately 70%, making it heavily reliant on imported fossil fuels. The transition to renewable energy is critical for improving energy security.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "energy"
+  },
+  {
+    "question": "How much of Ireland's electricity comes from wind energy?",
+    "answer": "Wind energy generated approximately 36% of all electricity in Ireland in 2023. Ireland has some of the best wind resources in Europe, with an installed wind capacity of approximately 5.6 GW in 2024.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "energy"
+  },
+  {
+    "question": "What is carbon capture and storage (CCS)?",
+    "answer": "Carbon capture and storage is a technology that captures carbon dioxide emissions from sources like power plants and industrial processes, transports it, and stores it underground in geological formations. It is considered a key technology for reducing emissions from heavy industry and for achieving negative emissions when combined with bioenergy.",
+    "source": "carbon_capture_and_storage.txt",
+    "category": "technology"
+  },
+  {
+    "question": "What are the key challenges Ireland faces in meeting its climate targets?",
+    "answer": "Ireland faces several key challenges including: high agricultural emissions from a large agricultural sector, planning delays for renewable energy projects, rapid growth in data centers driving up electricity demand, high car dependency especially in rural areas, high upfront costs of home energy retrofits, ensuring a just transition for affected communities, and balancing climate action with biodiversity protection.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "challenges"
+  },
+  {
+    "question": "What is Ireland's solar PV target for 2030?",
+    "answer": "Ireland has a target of 5.5 GW of solar PV by 2030 as part of its renewable electricity strategy.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "electricity"
+  },
+  {
+    "question": "What is the renewable electricity share in Ireland?",
+    "answer": "The renewable electricity share in Ireland was approximately 39% in 2023, with the country targeting 80% renewable electricity by 2030.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "energy"
+  },
+  {
+    "question": "What reduction in chemical nitrogen fertiliser does Ireland target?",
+    "answer": "Ireland targets reducing chemical nitrogen fertiliser use by 20-25% as part of its agriculture sector emissions reduction measures.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "agriculture"
+  },
+  {
+    "question": "What is the afforestation target for Ireland?",
+    "answer": "Ireland targets annual afforestation of 8,000 hectares as part of its climate action measures in the agriculture and land use sector.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "agriculture"
+  },
+  {
+    "question": "What percentage of Ireland's emissions comes from the transport sector?",
+    "answer": "The transport sector accounts for approximately 18.5% of Ireland's total greenhouse gas emissions, amounting to about 11.2 Mt CO2 eq in 2022.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "emissions"
+  },
+  {
+    "question": "What EU emission reduction target does Ireland face under the Effort Sharing Regulation?",
+    "answer": "Under the EU Effort Sharing Regulation, Ireland must reduce non-ETS (Emissions Trading System) emissions by 42% by 2030 compared to 2005 levels.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "eu_policy"
+  },
+  {
+    "question": "How is carbon tax revenue used in Ireland?",
+    "answer": "Carbon tax revenue in Ireland is ringfenced for climate action measures including social welfare increases to protect vulnerable households, residential retrofit programs, agricultural support schemes, and active travel and greenway infrastructure.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "carbon_tax"
+  },
+  {
+    "question": "What methodology approaches are used for climate action research projects?",
+    "answer": "Climate action research projects commonly use methodologies like KDD (Knowledge Discovery in Databases) and CRISP-DM (Cross-Industry Standard Process for Data Mining). CRISP-DM involves six phases: business understanding, data understanding, data preparation, modeling, evaluation, and deployment.",
+    "source": "general_methodology",
+    "category": "methodology"
+  },
+  {
+    "question": "What is the Fit for 55 package?",
+    "answer": "The Fit for 55 package is a set of EU policy proposals aimed at revising climate, energy, transport, and taxation policies to make them fit for reducing net greenhouse gas emissions by at least 55% by 2030 compared to 1990 levels. It is a key component of the European Green Deal.",
+    "source": "european_green_deal.txt",
+    "category": "eu_policy"
+  },
+  {
+    "question": "What public transport projects are planned in Ireland for emissions reduction?",
+    "answer": "Ireland has planned significant public transport investments including BusConnects, MetroLink, and DART+ expansion projects. These projects aim to provide alternatives to private car use and reduce transport sector emissions.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "transport"
+  },
+  {
+    "question": "When will new fossil fuel boilers be banned in Ireland?",
+    "answer": "New fossil fuel boilers will be banned after 2025 in new dwellings in Ireland, as part of the buildings sector decarbonization measures.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "buildings"
+  },
+  {
+    "question": "What is the organic farming target in Ireland?",
+    "answer": "Ireland aims to increase its organic farming area to 7.5% of utilized agricultural area by 2030.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "agriculture"
+  },
+  {
+    "question": "By how much did Ireland's emissions decline in 2023?",
+    "answer": "Ireland's greenhouse gas emissions declined by 6.8% in 2023 compared to 2022.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "emissions"
+  },
+  {
+    "question": "What is the role of SEAI in Ireland's climate strategy?",
+    "answer": "The Sustainable Energy Authority of Ireland (SEAI) is Ireland's national energy authority. It plays a key role in providing energy data and statistics, supporting renewable energy deployment, managing energy efficiency programs, and administering grants for home energy upgrades and renewable energy installations.",
+    "source": "sustainable_energy_authority_of_ireland.txt",
+    "category": "governance"
+  },
+  {
+    "question": "What is the industry sector emissions reduction target?",
+    "answer": "Industry must reduce emissions by 35% by 2030, from 7.0 Mt CO2 eq in 2018 to 4.0 Mt CO2 eq. Key measures include carbon capture and storage, industrial electrification, circular economy practices, and green hydrogen development.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "industry"
+  },
+  {
+    "question": "What climate impacts is Europe experiencing due to climate change?",
+    "answer": "Europe is experiencing multiple climate impacts including more frequent and intense heatwaves, changing precipitation patterns, rising sea levels, glacier retreat, increased flooding risks, droughts affecting agriculture, and threats to biodiversity. Southern Europe faces particular risks from heat and drought, while Northern Europe faces increased precipitation and flooding.",
+    "source": "climate_change_in_europe.txt",
+    "category": "impacts"
+  },
+  {
+    "question": "What are the main types of climate change mitigation measures?",
+    "answer": "The main types of climate change mitigation measures include: transitioning from fossil fuels to renewable energy sources, improving energy efficiency in buildings and industry, electrifying transport, changing agricultural practices to reduce methane and nitrous oxide, protecting and expanding forests and natural carbon sinks, carbon capture and storage technology, and carbon pricing mechanisms like carbon taxes and emissions trading.",
+    "source": "climate_change_mitigation.txt",
+    "category": "mitigation"
+  },
+  {
+    "question": "What is the buildings sector emissions reduction target for Ireland?",
+    "answer": "The buildings sector (residential and commercial) must reduce emissions by 40-45% by 2030, from 9.3 Mt CO2 eq in 2018 to 4.0 Mt CO2 eq.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "buildings"
+  },
+  {
+    "question": "How does the EU Emissions Trading System work?",
+    "answer": "The EU Emissions Trading System (EU ETS) is a cap-and-trade system that covers large industrial installations and power generation. It sets a cap on the total amount of greenhouse gases that can be emitted, and companies receive or buy emission allowances. They can trade allowances with each other, creating a financial incentive to reduce emissions.",
+    "source": "emissions_trading.txt",
+    "category": "mechanisms"
+  },
+  {
+    "question": "What are the key components of the EU energy policy?",
+    "answer": "Key components of EU energy policy include energy security and reducing import dependency, completing the internal energy market, promoting renewable energy deployment, improving energy efficiency, developing energy infrastructure and interconnections, and supporting research and innovation in clean energy technologies.",
+    "source": "energy_policy_of_the_european_union.txt",
+    "category": "eu_policy"
+  },
+  {
+    "question": "What is Ireland's electricity sector structure?",
+    "answer": "Ireland's electricity sector has undergone significant transformation. It includes a wholesale electricity market shared with Northern Ireland (the Single Electricity Market), a national grid operated by EirGrid, and distribution by ESB Networks. The sector has seen significant growth in wind energy and is transitioning away from peat and coal-fired generation.",
+    "source": "electricity_sector_in_ireland.txt",
+    "category": "electricity"
+  },
+  {
+    "question": "What is the EPA's role in Ireland's climate action?",
+    "answer": "The Environmental Protection Agency (EPA) of Ireland is responsible for monitoring and reporting on Ireland's greenhouse gas emissions, enforcing environmental regulations, publishing emissions projections, and supporting evidence-based environmental policy. It provides the official national inventory of greenhouse gas emissions.",
+    "source": "environmental_protection_agency_ireland.txt",
+    "category": "governance"
+  },
+  {
+    "question": "What transport infrastructure challenges does Ireland face?",
+    "answer": "Ireland faces transport challenges including high dependency on private cars especially in rural areas, a need for significant investment in public transport infrastructure, the requirement for extensive EV charging networks, and the challenge of decarbonizing freight and heavy goods vehicles. Urban areas need BusConnects and expanded rail services.",
+    "source": "transport_in_ireland.txt",
+    "category": "transport"
+  },
+  {
+    "question": "What is the impact of data centers on Ireland's energy system?",
+    "answer": "Rapid growth in data centers is driving up electricity demand in Ireland, posing a significant challenge to meeting renewable energy targets. Data centers are estimated to consume over 20% of Ireland's electricity, making it harder to decarbonize the grid and meet overall emissions reduction targets.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "challenges"
+  },
+  {
+    "question": "What district heating plans does Ireland have?",
+    "answer": "Ireland plans to develop district heating networks in urban areas as part of its buildings sector decarbonization strategy. District heating uses centralized heat sources to provide heating to multiple buildings efficiently, reducing individual building emissions.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "buildings"
+  },
+  {
+    "question": "What is the Warmer Homes Scheme?",
+    "answer": "The Warmer Homes Scheme is an Irish government energy efficiency program that provides free home energy upgrades to eligible homeowners who are in receipt of certain welfare payments. It is one of the key programs aimed at reducing building sector emissions and addressing energy poverty.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "buildings"
+  },
+  {
+    "question": "What role does biomethane play in Ireland's climate strategy?",
+    "answer": "Biomethane produced from agricultural waste is part of Ireland's strategy to reduce agriculture sector emissions and provide renewable energy. It can be injected into the natural gas grid, replacing fossil gas, and provides a revenue stream for farmers while reducing methane emissions from agricultural waste.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "agriculture"
+  },
+  {
+    "question": "What are Nearly Zero Energy Buildings (NZEB)?",
+    "answer": "Nearly Zero Energy Buildings (NZEB) are buildings with very high energy performance. Ireland's building regulations require all new buildings to be NZEB standard, meaning they have very low energy needs that are largely met by renewable sources. This standard is part of the building sector's contribution to emissions reduction.",
+    "source": "ireland_climate_action_plan.txt",
+    "category": "buildings"
+  }
+]
