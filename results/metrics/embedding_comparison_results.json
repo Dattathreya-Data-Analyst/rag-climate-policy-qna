@@ -1,0 +1,224 @@
+{
+  "minilm": {
+    "model_info": {
+      "model_name": "minilm",
+      "model_id": "sentence-transformers/all-MiniLM-L6-v2",
+      "dimensions": 384,
+      "backend": "sentence_transformers",
+      "load_time_seconds": 7.907257318496704
+    },
+    "embed_time_seconds": 0.2986268997192383,
+    "docs_per_second": 167.43300769960368,
+    "avg_max_similarity": 0.5499836683273316,
+    "query_results": [
+      {
+        "query": "What is Ireland's 2030 greenhouse gas emissions reduction target?",
+        "max_similarity": 0.6739872694015503,
+        "mean_similarity": 0.3975505097210407,
+        "min_similarity": 0.10541491955518723
+      },
+      {
+        "query": "When must Ireland achieve climate neutrality?",
+        "max_similarity": 0.7138402462005615,
+        "mean_similarity": 0.4382625934481621,
+        "min_similarity": 0.14312535524368286
+      },
+      {
+        "query": "What are Ireland's three carbon budgets and their allocations?",
+        "max_similarity": 0.6531651020050049,
+        "mean_similarity": 0.33082012698054314,
+        "min_similarity": 0.10977654159069061
+      },
+      {
+        "query": "What percentage of electricity does Ireland aim to generate from renewable sources by 2030?",
+        "max_similarity": 0.5201868414878845,
+        "mean_similarity": 0.31847297921776774,
+        "min_similarity": 0.06273282319307327
+      },
+      {
+        "query": "What is Ireland's offshore wind energy target for 2030?",
+        "max_similarity": 0.5734010338783264,
+        "mean_similarity": 0.38626314252614974,
+        "min_similarity": 0.14172260463237762
+      },
+      {
+        "query": "How many electric vehicles does Ireland target by 2030?",
+        "max_similarity": 0.5075610280036926,
+        "mean_similarity": 0.31070238262414934,
+        "min_similarity": 0.03756063058972359
+      },
+      {
+        "query": "What is the transport sector's required emissions reduction by 2030?",
+        "max_similarity": 0.40133136510849,
+        "mean_similarity": 0.22059449823573232,
+        "min_similarity": -0.0013099154457449913
+      },
+      {
+        "query": "How many home retrofits is Ireland targeting by 2030?",
+        "max_similarity": 0.5097401142120361,
+        "mean_similarity": 0.31836365789175036,
+        "min_similarity": 0.05311651527881622
+      },
+      {
+        "query": "How many heat pumps does Ireland plan to install by 2030?",
+        "max_similarity": 0.5736640691757202,
+        "mean_similarity": 0.3748284128308296,
+        "min_similarity": 0.13361519575119019
+      },
+      {
+        "query": "What is the emissions reduction target for the agriculture sector?",
+        "max_similarity": 0.37295961380004883,
+        "mean_similarity": 0.2116706305742264,
+        "min_similarity": 0.016737937927246094
+      }
+    ]
+  },
+  "bge": {
+    "model_info": {
+      "model_name": "bge",
+      "model_id": "BAAI/bge-small-en-v1.5",
+      "dimensions": 384,
+      "backend": "sentence_transformers",
+      "load_time_seconds": 4.544377326965332
+    },
+    "embed_time_seconds": 0.24051451683044434,
+    "docs_per_second": 207.88765958459186,
+    "avg_max_similarity": 0.6751596450805664,
+    "query_results": [
+      {
+        "query": "What is Ireland's 2030 greenhouse gas emissions reduction target?",
+        "max_similarity": 0.7022917866706848,
+        "mean_similarity": 0.5787783175706863,
+        "min_similarity": 0.45026999711990356
+      },
+      {
+        "query": "When must Ireland achieve climate neutrality?",
+        "max_similarity": 0.7352720499038696,
+        "mean_similarity": 0.623755801320076,
+        "min_similarity": 0.4620164930820465
+      },
+      {
+        "query": "What are Ireland's three carbon budgets and their allocations?",
+        "max_similarity": 0.7459182739257812,
+        "mean_similarity": 0.5739404368400574,
+        "min_similarity": 0.426724374294281
+      },
+      {
+        "query": "What percentage of electricity does Ireland aim to generate from renewable sources by 2030?",
+        "max_similarity": 0.683964192867279,
+        "mean_similarity": 0.5730700713396072,
+        "min_similarity": 0.4005720913410187
+      },
+      {
+        "query": "What is Ireland's offshore wind energy target for 2030?",
+        "max_similarity": 0.6464194059371948,
+        "mean_similarity": 0.5467390143871307,
+        "min_similarity": 0.38823646306991577
+      },
+      {
+        "query": "How many electric vehicles does Ireland target by 2030?",
+        "max_similarity": 0.6461117267608643,
+        "mean_similarity": 0.5465147244930267,
+        "min_similarity": 0.3631681203842163
+      },
+      {
+        "query": "What is the transport sector's required emissions reduction by 2030?",
+        "max_similarity": 0.6258291006088257,
+        "mean_similarity": 0.5174892693758011,
+        "min_similarity": 0.4265131950378418
+      },
+      {
+        "query": "How many home retrofits is Ireland targeting by 2030?",
+        "max_similarity": 0.6533035039901733,
+        "mean_similarity": 0.5537017846107483,
+        "min_similarity": 0.38199108839035034
+      },
+      {
+        "query": "How many heat pumps does Ireland plan to install by 2030?",
+        "max_similarity": 0.6864978671073914,
+        "mean_similarity": 0.5740754854679108,
+        "min_similarity": 0.39334559440612793
+      },
+      {
+        "query": "What is the emissions reduction target for the agriculture sector?",
+        "max_similarity": 0.6259885430335999,
+        "mean_similarity": 0.5292138129472732,
+        "min_similarity": 0.44287967681884766
+      }
+    ]
+  },
+  "nomic": {
+    "model_info": {
+      "model_name": "nomic",
+      "model_id": "nomic-ai/nomic-embed-text-v1.5",
+      "dimensions": 768,
+      "backend": "ollama",
+      "load_time_seconds": 10.472878456115723
+    },
+    "embed_time_seconds": 0.9085192680358887,
+    "docs_per_second": 55.03460604428797,
+    "avg_max_similarity": 0.625924422077118,
+    "query_results": [
+      {
+        "query": "What is Ireland's 2030 greenhouse gas emissions reduction target?",
+        "max_similarity": 0.6589034861161364,
+        "mean_similarity": 0.5582325470142675,
+        "min_similarity": 0.46488044040633825
+      },
+      {
+        "query": "When must Ireland achieve climate neutrality?",
+        "max_similarity": 0.6361573407870413,
+        "mean_similarity": 0.5364997211388962,
+        "min_similarity": 0.44685077193621425
+      },
+      {
+        "query": "What are Ireland's three carbon budgets and their allocations?",
+        "max_similarity": 0.6042374411738624,
+        "mean_similarity": 0.5013511862792537,
+        "min_similarity": 0.43157461977849143
+      },
+      {
+        "query": "What percentage of electricity does Ireland aim to generate from renewable sources by 2030?",
+        "max_similarity": 0.6121542737396245,
+        "mean_similarity": 0.5402175141965317,
+        "min_similarity": 0.4229417342133318
+      },
+      {
+        "query": "What is Ireland's offshore wind energy target for 2030?",
+        "max_similarity": 0.6342210776336143,
+        "mean_similarity": 0.5569302724715075,
+        "min_similarity": 0.4595487865137232
+      },
+      {
+        "query": "How many electric vehicles does Ireland target by 2030?",
+        "max_similarity": 0.6071968968308331,
+        "mean_similarity": 0.5176190204818003,
+        "min_similarity": 0.3963386183505094
+      },
+      {
+        "query": "What is the transport sector's required emissions reduction by 2030?",
+        "max_similarity": 0.6425952792762368,
+        "mean_similarity": 0.5292475926704373,
+        "min_similarity": 0.4231447929112652
+      },
+      {
+        "query": "How many home retrofits is Ireland targeting by 2030?",
+        "max_similarity": 0.6147868517920789,
+        "mean_similarity": 0.5330277104819267,
+        "min_similarity": 0.42877004381004474
+      },
+      {
+        "query": "How many heat pumps does Ireland plan to install by 2030?",
+        "max_similarity": 0.6484955849964092,
+        "mean_similarity": 0.5477906895051525,
+        "min_similarity": 0.4171368947254492
+      },
+      {
+        "query": "What is the emissions reduction target for the agriculture sector?",
+        "max_similarity": 0.6004959884253429,
+        "mean_similarity": 0.5129924512231203,
+        "min_similarity": 0.43113212511225363
+      }
+    ]
+  }
+}

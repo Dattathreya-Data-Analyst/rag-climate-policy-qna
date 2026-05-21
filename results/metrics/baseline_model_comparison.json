@@ -1,0 +1,188 @@
+{
+  "llama3.1:8b": [
+    {
+      "question": "What is Ireland's 2030 greenhouse gas emissions reduction target?",
+      "answer": "Error: model 'llama3.1:8b' not found (status code: 404)",
+      "latency": 0.002197265625,
+      "tokens": 0
+    },
+    {
+      "question": "When must Ireland achieve climate neutrality?",
+      "answer": "Error: model 'llama3.1:8b' not found (status code: 404)",
+      "latency": 0.0024988651275634766,
+      "tokens": 0
+    },
+    {
+      "question": "What are Ireland's three carbon budgets and their allocations?",
+      "answer": "Error: model 'llama3.1:8b' not found (status code: 404)",
+      "latency": 0.0024437904357910156,
+      "tokens": 0
+    },
+    {
+      "question": "What percentage of electricity does Ireland aim to generate from renewable sources by 2030?",
+      "answer": "Error: model 'llama3.1:8b' not found (status code: 404)",
+      "latency": 0.0021505355834960938,
+      "tokens": 0
+    },
+    {
+      "question": "What is Ireland's offshore wind energy target for 2030?",
+      "answer": "Error: model 'llama3.1:8b' not found (status code: 404)",
+      "latency": 0.0018467903137207031,
+      "tokens": 0
+    },
+    {
+      "question": "How many electric vehicles does Ireland target by 2030?",
+      "answer": "Error: model 'llama3.1:8b' not found (status code: 404)",
+      "latency": 0.002373933792114258,
+      "tokens": 0
+    },
+    {
+      "question": "What is the transport sector's required emissions reduction by 2030?",
+      "answer": "Error: model 'llama3.1:8b' not found (status code: 404)",
+      "latency": 0.00180816650390625,
+      "tokens": 0
+    },
+    {
+      "question": "How many home retrofits is Ireland targeting by 2030?",
+      "answer": "Error: model 'llama3.1:8b' not found (status code: 404)",
+      "latency": 0.0018727779388427734,
+      "tokens": 0
+    },
+    {
+      "question": "How many heat pumps does Ireland plan to install by 2030?",
+      "answer": "Error: model 'llama3.1:8b' not found (status code: 404)",
+      "latency": 0.0017914772033691406,
+      "tokens": 0
+    },
+    {
+      "question": "What is the emissions reduction target for the agriculture sector?",
+      "answer": "Error: model 'llama3.1:8b' not found (status code: 404)",
+      "latency": 0.0014722347259521484,
+      "tokens": 0
+    }
+  ],
+  "mistral:7b": [
+    {
+      "question": "What is Ireland's 2030 greenhouse gas emissions reduction target?",
+      "answer": "Error: model 'mistral:7b' not found (status code: 404)",
+      "latency": 0.0014350414276123047,
+      "tokens": 0
+    },
+    {
+      "question": "When must Ireland achieve climate neutrality?",
+      "answer": "Error: model 'mistral:7b' not found (status code: 404)",
+      "latency": 0.0013718605041503906,
+      "tokens": 0
+    },
+    {
+      "question": "What are Ireland's three carbon budgets and their allocations?",
+      "answer": "Error: model 'mistral:7b' not found (status code: 404)",
+      "latency": 0.0012526512145996094,
+      "tokens": 0
+    },
+    {
+      "question": "What percentage of electricity does Ireland aim to generate from renewable sources by 2030?",
+      "answer": "Error: model 'mistral:7b' not found (status code: 404)",
+      "latency": 0.0012247562408447266,
+      "tokens": 0
+    },
+    {
+      "question": "What is Ireland's offshore wind energy target for 2030?",
+      "answer": "Error: model 'mistral:7b' not found (status code: 404)",
+      "latency": 0.00122833251953125,
+      "tokens": 0
+    },
+    {
+      "question": "How many electric vehicles does Ireland target by 2030?",
+      "answer": "Error: model 'mistral:7b' not found (status code: 404)",
+      "latency": 0.002043485641479492,
+      "tokens": 0
+    },
+    {
+      "question": "What is the transport sector's required emissions reduction by 2030?",
+      "answer": "Error: model 'mistral:7b' not found (status code: 404)",
+      "latency": 0.0016853809356689453,
+      "tokens": 0
+    },
+    {
+      "question": "How many home retrofits is Ireland targeting by 2030?",
+      "answer": "Error: model 'mistral:7b' not found (status code: 404)",
+      "latency": 0.0012600421905517578,
+      "tokens": 0
+    },
+    {
+      "question": "How many heat pumps does Ireland plan to install by 2030?",
+      "answer": "Error: model 'mistral:7b' not found (status code: 404)",
+      "latency": 0.0012536048889160156,
+      "tokens": 0
+    },
+    {
+      "question": "What is the emissions reduction target for the agriculture sector?",
+      "answer": "Error: model 'mistral:7b' not found (status code: 404)",
+      "latency": 0.0011119842529296875,
+      "tokens": 0
+    }
+  ],
+  "gemma2:9b": [
+    {
+      "question": "What is Ireland's 2030 greenhouse gas emissions reduction target?",
+      "answer": "Error: model 'gemma2:9b' not found (status code: 404)",
+      "latency": 0.002280712127685547,
+      "tokens": 0
+    },
+    {
+      "question": "When must Ireland achieve climate neutrality?",
+      "answer": "Error: model 'gemma2:9b' not found (status code: 404)",
+      "latency": 0.0015778541564941406,
+      "tokens": 0
+    },
+    {
+      "question": "What are Ireland's three carbon budgets and their allocations?",
+      "answer": "Error: model 'gemma2:9b' not found (status code: 404)",
+      "latency": 0.00144195556640625,
+      "tokens": 0
+    },
+    {
+      "question": "What percentage of electricity does Ireland aim to generate from renewable sources by 2030?",
+      "answer": "Error: model 'gemma2:9b' not found (status code: 404)",
+      "latency": 0.0014216899871826172,
+      "tokens": 0
+    },
+    {
+      "question": "What is Ireland's offshore wind energy target for 2030?",
+      "answer": "Error: model 'gemma2:9b' not found (status code: 404)",
+      "latency": 0.0021886825561523438,
+      "tokens": 0
+    },
+    {
+      "question": "How many electric vehicles does Ireland target by 2030?",
+      "answer": "Error: model 'gemma2:9b' not found (status code: 404)",
+      "latency": 0.002027750015258789,
+      "tokens": 0
+    },
+    {
+      "question": "What is the transport sector's required emissions reduction by 2030?",
+      "answer": "Error: model 'gemma2:9b' not found (status code: 404)",
+      "latency": 0.0021250247955322266,
+      "tokens": 0
+    },
+    {
+      "question": "How many home retrofits is Ireland targeting by 2030?",
+      "answer": "Error: model 'gemma2:9b' not found (status code: 404)",
+      "latency": 0.002554178237915039,
+      "tokens": 0
+    },
+    {
+      "question": "How many heat pumps does Ireland plan to install by 2030?",
+      "answer": "Error: model 'gemma2:9b' not found (status code: 404)",
+      "latency": 0.0019774436950683594,
+      "tokens": 0
+    },
+    {
+      "question": "What is the emissions reduction target for the agriculture sector?",
+      "answer": "Error: model 'gemma2:9b' not found (status code: 404)",
+      "latency": 0.0018062591552734375,
+      "tokens": 0
+    }
+  ]
+}
